@@ -1,0 +1,1153 @@
+# ten billion years ago (astronomical)
+# one billion years ago (geological)
+# 100 million years ago (biological)
+# ten million years ago (primatological)
+# one million years ago (paleontological)
+# 100 thousand years ago (anthropological)
+# ten thousand years ago (archeological)
+# one thousand years ago (historical)
+# one hundred years ago (cultural)
+# ten years ago (personal)
+# one year ago (tyrannical)
+# one-tenth year ago (demagogical)
+Heinz von Foerster did one of these around 1930, to test how evenly major historical events would fill it (not very evenly). And Nigel Calder did a nice 100-page prose version in 1983 called "Timescale: an atlas of the 4th dimension". Choosing a 'NOW' point is problematic (it keeps changing!) but I picked 31Dec 2001 for convenience.
+It's precisely divided into 1015 lines covering the Big Bang (NOW minus 10^10.14 years) to 31Dec 2000 (NOW minus 10^0.00, aka one year). If I manage to find one link per line, this will make the page about 100k, which is the maximum Google will index. (This gratifies my desire for 'necessary' web-design: theory. Design rationale: 
+UPDATE (3-2005): I've added 115 lines of 'negative exponents' that carry the story almost to the end of 2001, tracing the WTC plot and the first year of W's presidency. Abbreviations used:
+W = George W Bush        BC = Bill Clinton    HC = Hillary Clinton
+PDB = Presidential Daily Briefing                 WH = White House
+RC = Dick Cheney                                 HAL = Halliburton
+ObL = Osama bin Laden        aQ = al Qaeda         aJ = al Jazeera
+muj = mujahideen                              A'stan = Afghanistan
+KSM = Khaleed Sheik Mohammed                     Bin. = Binalshibh
+PNAC = Project for a New American Century        Wolf. = Wolfowitz
+10.137 = 13,700,000,000 years BC = Big Bang 
+10.13: release of Cosmic Microwave Background 
+10.12: first galaxies, of iron-free stars 
+10.11: quasars with (unexpected) iron , carbon monoxide 
+10.10 = 12,500,000,000 yrs BC: red galaxies stop forming stars 
+10.09: big stars explode after fusing H into He-C-O-Mg-Si-S-Fe
+10.08
+10.07: small stars consume H-He leaving C-O as white dwarfs
+10.06
+10.05: daily gamma-ray bursts sterilize vast areas? 
+10.04: (~3 per galaxy per billion years: cite)
+10.03: quasars numerous
+10.02: Milky Way captures small galaxy w/retrograde clusters
+10.01: universe one-eighth current size?
+10.00 = 10,000,000,000 yrs BC
+9.99: interstellar gas gradually incorporated by stars
+9.98: (gas -> dust -> grit -> lumps)
+9.97
+9.96 = 9,000,000,000 years BC
+9.95
+9.94
+9.93: Milky Way rotates 5 times per billion years
+9.92
+9.91 = 8,000,000,000 years BC
+9.90
+9.89: star-formation in elliptical galaxies mostly stops
+9.88
+9.87
+9.86: galaxy-clustering weaker than today 
+9.85 = 7,000,000,000 years BC
+9.84
+9.83: expanding universe is 1/4 current size
+9.82
+9.81
+9.80: star-formation in spiral galaxies slows (~1 per millennium)
+9.79
+9.78 = 6,000,000,000 years BC
+9.77
+9.76: several supernovas per century in Milky Way
+9.75
+9.74
+9.73: interstellar gas from local supernovas begins condensing
+9.72: H-C-O-etc form water and simple organic compounds
+9.71: angular momentum produces cool?, spinning, flattened disk
+9.70 = 5,000,000,000 years BC
+9.69: birth of Sun (30% cooler than today: cite)
+9.68: condensing interstellar silicon&metals forms planetesimals
+9.67: meteorite with purple salt; Martian meteorite
+9.66: Earth condenses  cold but heated by isotopes; Fe sinks
+9.65: Moon created by catastrophic glancing impact  
+9.64: global ocean; 1st zircon crystals on Earth  
+9.63: upwelling Si and Al begin forming island-continents
+9.62: iron-rich primordial soup reaches modern salinity (Gaia/life?)
+9.61 = 4,000,000,000 years BC: universe is half current size
+9.60: massive meteorite storm ends ; left-handed serine? 
+9.59: widespread volcanism releases H2, N2, CO2, CO, SO2, HCl 
+9.58: Isua graphite from life?; Earth's core 3x as hot as now
+9.57: ultraviolet inhibits life by freeing bound nitrogen 
+9.56: RNA World? ; anaerobic life at hydrothermal vents? 
+9.55: stromatolites of bluegreen algae trickle O2 into air 
+9.54: early oxygen precipitates banded iron formations 
+9.53: giant meteorite impact 
+9.52: diamonds created in south Africa 
+9.51: earliest oil ; month only 20-days long? 
+9.50: short genome with frequent mutations
+9.49: Si-Al island-continents form Gondwana
+9.48 = 3,000,000,000 years BC
+9.47: Antarctic geology formed 
+9.46: Moon and Mercury cool to geologic inactivity
+9.45
+9.44: greenhouse gases warm Earth to current temps 
+9.43: CO2 in oceans begins creating limestone
+9.42: Earth's core twice as hot as now (faster drift)
+9.41: possible bacteria on land 
+9.40: 1st oxygen-based metabolism 
+9.39: island-continents form N Amer (Laurentia)
+9.38
+9.37: gold deposits accumulate in S African streambeds
+9.36: abundant stromatolites
+9.35: oxydised iron 'red beds'  
+9.34: widespread glaciation (followed by 1.5B yr warm spell)
+9.33
+9.32: spontaneous uranium meltdown in w Africa
+9.31: Wopmay mountains in north Canada (long-since eroded)
+9.30 = 2,000,000,000 yrs BC: eukaryotes with mitochondria
+9.29: atmosphere finally reaches 1% oxygen
+9.28: ozone layer blocks destructive ultraviolet 
+9.27: fossilised bacteria in Gunflint chert near Lake Superior
+9.26: continents converge as Columbia? 
+9.25: meteorites deliver nickel, platinum, chromium?
+9.24
+9.23
+9.22: continents begin to re-converge as Rhodinia
+9.21: sexual reproduction
+9.20
+9.19
+9.18 = 1,500,000,000 yrs BC: Siberia breaks from w N Amer?
+9.17: cilia?
+9.16: eukaryote fossils (mainly acritarchs)
+9.15: 1st multicellular experiments
+9.14
+9.13: lichens on land 
+9.12
+9.11
+9.10 = 1,250,000,000 yrs BC
+9.09: cell specialisation
+9.08
+9.07: gradual cooling as lichens absorb CO2? 
+9.06
+9.05: Gondwana (SAmer, Africa) collides with Laurentia (N Amer)
+9.04: divergence of animals, plants, and fungi 
+9.03: 1st coelenterate nervous systems?
+9.02: O2 increases after surface rocks reach saturation 
+9.01: 1st worm-tracks? 
+9.00 = 1,000,000,000 yrs BC
+8.99: continents emerge from ocean? 
+8.98: ice age?
+8.97: CHOANOFLAGELLATE-LIKE HUMAN ANCESTOR
+8.96 = 900,000,000 years BC
+8.95: adaptive radiation of acritarchs
+8.94: start of 250M yr worldwide Ice Age   
+8.93: mtn-building in Africa (Zambia) and Asia (Lake Baikal)
+8.92: seaweed (multicell algae) in nw Canada
+8.91 = 800,000,000 years BC: SPONGE-LIKE HUMAN ANCESTOR
+8.90: vase-shaped protozoans in Grand Canyon
+8.89: placozoans; ice age?
+8.88: Iapetus Ocean in rift between Laurentia and Gondwana
+8.87: oxygen buildup supports more-complex multicell lifeforms
+8.86: ctenophores w/nervous systems
+8.85 = 700,000,000 years BC
+8.84: land plants 
+8.83: JELLYFISH-LIKE HUMAN ANCESTOR
+8.82: swimming vertebrates diverge from crawling inver'tes?  
+8.81: FLATWORM-LIKE HUMAN ANCESTOR
+8.80: acritarchs suffer massive decline
+8.79: earliest bilateral symmetry in worm-trails  
+8.78 = 600,000,000 years BC: Snowball Earth? 
+8.77: sponges , flatworms; WORM-LIKE HUMAN ANCESTOR
+8.76: Vendian or Ediacardian diversity ; echinoderms
+8.75: scavengers and carnivores; most land is desert
+8.74: tiny shells (Tommotion) ; SEASQUIRT-LIKE HUMAN ANCESTOR
+8.73: Cambrian explosion of lifeforms ; trilobites 
+8.72: LAMPREY-LIKE HUMAN ANCESTOR
+8.71: plants with spores; starfish; snails; crustaceans ; fish? 
+8.70 = 500,000,000 BC: Ordovician period  wide glaciation
+8.69: massive meteorite storm 
+8.68: land plants; giant carnivorous eurypterids
+8.67: sea urchins; horseshoe crabs ; sharks diverge
+8.66: extinctions; sea level rises, widespread inundation
+8.65: Silurian period ; ice age; coral reefs
+8.64: mosses; rayfinned fish with jaws and teeth 
+8.63: millipedes; aquatic scorpions; LUNGFISH-LIKE HUMAN ANCESTOR
+8.62: Devonian period ; N Amer and Eur form Laurasia
+8.61 = 400,000,000 years BC: sharks; arachnids; horsetails
+8.60: possible increase in meteorite impacts 
+8.59: better ozone shield; 1st trees/forests   
+8.58: fish with legs  
+8.57: massive tsunamis (meteorite?); global cooling
+8.56: Carboniferous period (coal-producing swamps) 
+8.55: plants with seeds, conifers
+8.54: amphibians; insects; ferns
+8.53: land scorpions; SALAMANDER-LIKE HUMAN ANCESTOR
+8.52: all lands join as Pangaea (Appalachian mtns) 
+8.51: Tethys Sea separates Asia from Africa
+8.50: carnivorous pelycosaurs
+8.49: mammals diverge from reptiles and birds 
+8.48 = 300,000,000 years BC: spiders
+8.47: reptiles; winged insects incl dragonflies
+8.46: Permian period   Ural mtns rise as Eurasia forms
+8.45: giant cockroaches 
+8.44: 1st terrestrial herbivores don't chew 
+8.43: pines and firs; therapsids
+8.42: rodentlike 'suminia' 1st chewer on land 
+8.41: 90% of species die    
+8.40: Triassic period  arid; sea levels very low
+8.39: dinosaurs , pterosaurs; crocodiles, turtles; fossilised birthing
+8.38: oxygen peaks at 35% ; lystrosaurs; cynodonts
+8.37: proto-flowers (bennettitales?) produce oleanane 
+8.36: croc-like thecodonts split as bird- and lizard-hips (SAmer)
+8.35: Pangaea splits at Atlantic  (rotation-time of Milky Way)
+8.34: lizard-hips split as veggie prosauropods, carnie teratosaurs
+8.33: prosauropods on every continent; 1st sauropod 
+8.32: giant meteorite storm   50% species die in 10k years 
+8.31: Jurassic period  ; birds
+8.30 = 200,000,000 yrs BC: botanic Eve's genome doubles 
+8.29: SHREW-LIKE HUMAN ANCESTOR 
+8.28: sea-levels high, land inundated
+8.27: ammonites
+8.26
+8.25
+8.24: bird-hipped veggie stegosaurus everywhere but S Amer
+8.23: lizard-hipped veggies brachiosaurus, diplodocus
+8.22: seafloor ooze makes oil in North Sea, Mexico
+8.21: frogs
+8.20: salamanders in China  
+8.19: giant carnivorous marine reptile 
+8.18 = 150,000,000 yrs BC: land bridge between N Amer and Eur
+8.17: archeopteryx 
+8.16: dinosaurs evolve more-efficient breathing 
+8.15: rat-like mammal 
+8.14: Cretaceous period 
+8.13: ants ; iguanodons
+8.12: flowering plants 
+8.11: gulls and wading birds
+8.10 = 125,000,000 yrs BC
+8.09: marsupials and placentals diverge 
+8.08: opossums
+8.07: oak trees
+8.06: inland seas split e/w N Amer, Europe from Asia
+8.05
+8.04: triceratops
+8.03: placental insectivore in Mongolia
+8.02: continents break up; S Amer, Africa, and India are islands
+8.01: army ants 
+8.00 = 100,000,000 yrs BC
+7.99: modern orders of mammals diverge 
+7.98: coccoliths create chalk-beds (eg Dover)
+7.97: seafloor ooze creates oil (eg Arabia, Venezuela)
+7.96 = 90,000,000 years BC
+7.95: global warming? 
+7.94: LEMUR-LIKE HUMAN ANCESTOR  
+7.93
+7.92
+7.91 = 80,000,000 years BC
+7.90: 1st Hawaiian islands 
+7.89
+7.88
+7.87: land bridge between e Asia and w N Amer
+7.86
+7.85 = 70,000,000 years BC
+7.84: T rex, velociraptors
+7.83
+7.82: KT extinction event (probably meteorite in Yucatan) 
+7.81: Paleocene epoch 
+7.80: seas retreat, icecaps grow
+7.79: rodents; carnivorous proto-lions/bears
+7.78 = 60,000,000 years BC
+7.77: collision of India and Asia will create Himalayas  
+7.76: methane release? ; CO2 peaks 
+7.75: cats and dogs diverge
+7.74: Eocene epoch 
+7.73: bats
+7.72: daylight moths become butterflies 
+7.71: sea levels rise, land inundated
+7.70 = 50,000,000 BC: oceans cool
+7.69: giant birds eat tiny horses 
+7.68: pig-sized proto-elephants
+7.67
+7.66: whales diverge from hippos 
+7.65: fossilized mosquito
+7.64
+7.63: eosimians 
+7.62
+7.61 = 40,000,000 years BC: rabbits
+7.60: temperatures plummet
+7.59: Oligocene epoch ; global cooling
+7.58: Asian mammals invade Europe as inland seas dry up
+7.57: loons, albatrosses, herons, and penguins diverge
+7.56: squirrels in N America 
+7.55: 1st grasses reproduce w/o flowers, resist fire and grazing
+7.54: giant meteorite impact in Chesapeake Bay 
+7.53
+7.52: glaciation of Antarctica  
+7.51: S Amer and Australia split from Antarctica
+7.50: African monkeys invade S Amer (across ocean?)
+7.49: kiwis 
+7.48 = 30,000,000 years BC: squirrels in Europe 
+7.47: dolphin brains comparable in size to modern humans' 
+7.46: ape-like jaws and teeth at Fayum, Egypt
+7.45: Japan splits from mainland
+7.44: apes and monkeys diverge (lose tails, swing from branches)
+7.43: comet hits Egypt
+7.42
+7.41: Miocene epoch  sea levels fall
+7.40: sex-related Tre2 mutation in primate line 
+7.39: dodos diverge 
+7.38: modern whales
+7.37: mtn-building in Himalayas, Rockies, Andes
+7.36: orbital anomaly extends Antarctica's glaciers 
+7.35
+7.34: dryopithecus in Kenya
+7.33
+7.32
+7.31: 1st deer
+7.30 = 20,000,000 yrs BC: 1st Galapagos islands 
+7.29: 1st antelopes; Africa collides w/Eurasia 
+7.28: (elephants and apes enter Eurasia from Africa)
+7.27: (cats, cattle, giraffes, pigs from Eurasia to Africa)
+7.26: dryopithecus proconsul 
+7.25
+7.24: Africa's Rift Valley begins to split
+7.23
+7.22
+7.21: dryopithecus in Germany 
+7.20: giant lavaflows in Oregon
+7.19: Mediterranean re-separates Europe from Africa? 
+7.18 = 15,000,000 yrs BC: meteorite in Germany
+7.17: orangutan-like ramapithecus from Kenya to India
+7.16
+7.15: widespread volcanism
+7.14
+7.13
+7.12
+7.11
+7.10 = 12,500,000 yrs BC
+7.09
+7.08
+7.07
+7.06
+7.05
+7.04: grazing mammals
+7.03: low sea-levels 
+7.02: short-toothed horses extinct in N Amer 
+7.01: gorillas in forests of central Africa; orangutans
+7.00 = 10,000,000 yrs BC: Alps building
+6.99: raccoons cross seas from N to S Amer
+6.98: bears invade N Amer from Asia
+6.97: sloths reach N Amer from S Amer
+6.96 = 9,000,000 years BC
+6.95
+6.94
+6.93
+6.92
+6.91 = 8,000,000 years BC
+6.90: possible hominoids in Lufeng, China
+6.89
+6.88
+6.87
+6.86
+6.85 = 7,000,000 years BC: elephants
+6.84
+6.83
+6.82: sahelanthropus 
+6.81: hominid tooth at Lukeino, Kenya
+6.80
+6.79: Mediterranean sea evaporates 
+6.78 = 6,000,000 years BC: horses-etc extinct in N Amer? 
+6.77: Pliocene epoch ; 1st dogs
+6.76: humans diverge from chimps  ; Bering Strait opens 
+6.75: hominid jaw at Lothagam, Kenya
+6.74: hominid 'orrorin'  ; ardipithecus 
+6.73: ardipithecus ramidus kadabba walks upright?
+6.72
+6.71
+6.70 = 5,000,000 BC
+6.69: rats reach Australia
+6.68: longshot aquatic-ape phase
+6.67: hominids move from forest to savanna, lose fur?  lose fur?
+6.66: two 'chimp' chromosomes fuse into human chr'some #2 (bottleneck?)
+6.65: Mediterranean re-floods for good
+6.64
+6.63: Andes mtns rising
+6.62
+6.61 = 4,000,000 years BC: Gulf Stream strengthened
+6.60: australopithecus? 
+6.59: mammoths and elephants in Africa 
+6.58: (also giraffes, buffalos, rhinos, hyenas, sabre-tooths)
+6.57: Congo River splits chimps from future bonobos
+6.56: bipedal hominid footprints at Laetoli, Tanzania
+6.55: bison, mammoth, deer, sabre-tooths to N Amer from Asia
+6.54: camels, horses, and dogs enter Asia from N Amer 
+6.53: australopithecus ; reduced sexual dimorphism 
+6.52: 'Lucy' walks using knuckles? 
+6.51: kenyanthropus? 
+6.50: selection for throwing-aim? 
+6.49: N and S Amer species mingle via landbridge 
+6.48 = 3,000,000 years BC: Ice Age
+6.47: omnivorous australopithecus diverges from vegetarian
+6.46: australopithecus africanus in S Africa
+6.45: human sense of smell dramatically reduced  (cooked food?)
+6.44: (no-date: sialic acid lost from cell surfaces)
+6.43: australopithecus keeps pebble that resembles a face 
+6.42: hominid tooth-shapes suggest meat-eating 
+6.41: basalt tools at Hadar, Ethiopia
+6.40: australopithecus garhi  
+6.39: stone tools used to strip meat ; jaws shrink
+6.38: Ice Age; (distance to Andromeda galaxy in lightyears)
+6.37: sophisticated stone tools (homo habilis) 
+6.36: hominid teeth at Omo, Kenya
+6.35: Galapagos finches diverge from mainland species 
+6.34: brain asymmetry may imply proto-language use?
+6.33
+6.32
+6.31: skull 1470 at E Turkana, Kenya (homo cranium)
+6.30 = 2,000,000 yrs BC: African droughts
+6.29: elephants and hippos butchered
+6.28: hominids master fire, cook tubers  1st African diaspora?
+6.27: social structures reorganised around hearth (sharing) 
+6.26: Pleistocene epoch  Java man
+6.25: possible fire at Hsihoutu, China; 1st bison, sheep, hogs
+6.24: 1st homo erectus 
+6.23: Oldowan tools carried for miles; 12ft round basecamp
+6.22: homo ergaster in Eurasia ; 6ft-tall Nariokotome boy
+6.21: animal sinews used as cords; skins as rugs, bags, clothes?
+6.20: noctural leopards preying on australopithecus (not homo)?
+6.19: Karari tools at E Turkana, Kenya; also erectus skull
+6.18 = 1,500,000 yrs BC
+6.17: Acheulean hand-axes (spread to Korea over next 1.3M yrs)
+6.16: fire at Chesowanja, Kenya
+6.15: homo w/hand-axes at Sterkfontein, S Africa
+6.14: Chesowanja homo eats australopithecines?
+6.13: Losokweta tools at Chesowanja (processing lake-plants?)
+6.12: australopithecus extinct
+6.11: much higher average sea-levels
+6.10 = 1,250,000 yrs BC: 14k furless humans (genetic bottleneck) 
+6.09: brain growing about 1500 neurons per year, on average
+6.08: females closer to size of males, bonds more monogamous
+6.07: males hunt, females gather and cook?
+6.06: homo erectus lice-species becomes isolated in Asia
+6.05
+6.04: African savanna resembles modern ecology 
+6.03: homo erectus uses bones to catch termites 
+6.02
+6.01
+6.00 = 1,000,000 yrs BC
+5.99: widespread volcanism
+5.98: Ice Age causes erectus divergence 
+5.97
+5.96 = 900,000 years BC
+5.95: humans in London
+5.94: homo in Spain
+5.93
+5.92
+5.91 = 800,000 years BC
+5.90: brown bears
+5.89: last major geomagnetic reversal (Brunhes-Matuyama)
+5.88: Acheulean tools in mideast (Ubeidiya); giant meteorite
+5.87: homo in Isernia, Italy eats elephant and bison
+5.86: hand-axes for processing lake-plants at Kilombe, Kenya
+5.85 = 700,000 years BC: warm interglacial
+5.84: fire by underground lake at L'Escale, France
+5.83
+5.82
+5.81
+5.80: wolves
+5.79
+5.78 = 600,000 years BC
+5.77
+5.76: warm interglacial
+5.75
+5.74
+5.73: homo diverges in Africa
+5.72: 1st llamas
+5.71: hominid mandible in Germany
+5.70 = 500,000 BC: possible homo in Britain
+5.69: Peking man has fire but no hand-axes 
+5.68: ate elephant, horse, deer, water buffalo, likely cannibalism
+5.67
+5.66
+5.65: Spanish hunters entrap elephant herd, horses, deer, cattle
+5.64
+5.63: warm interglacial; beach huts in Nice
+5.62: extinction of homo erectus 
+5.61 = 400,000 years BC
+5.60: wooden spears in Germany 
+5.59: systematic baboon-hunting in Olorgesailie, Kenya
+5.58: strait of Gibraltar crossed by boat?
+5.57: Arago 21 skull in s France
+5.56
+5.55: limit of uranium dating
+5.54: ceremonial burial in Spain? 
+5.53
+5.52: pre-Acheulian Clacton tools, wooden spear in se England
+5.51: high sealevels (warm Hoxnian/Holstein interglacial)
+5.50: fire at Terra Armata (s France)
+5.49
+5.48 = 300,000 BC
+5.47: fire in cave at Pech de l'Aze, France
+5.46
+5.45
+5.44: homo sapiens scalped at Bodo, Ethiopia
+5.43
+5.42: post-Acheulean tools at Mesvin, Belgium (incl bone point?)
+5.41: deer and gazelle hunted in c Asia (Lakhuti)
+5.40: homo sapiens skull at Petraloma, Greece
+5.39: fire more-common in Europe
+5.38: global warming
+5.37: homo sapiens at Bilzingsleben
+5.36
+5.35
+5.34: Levallois technique for making hand-axes
+5.33: high sealevels
+5.32: bones burnt for fuel in Hungary
+5.31: 'founder' cichlids in Lake Victoria will spawn 200 species
+5.30 = 200,000 yrs BC: handaxe w/decorative fossil in England
+5.29: neanderthals in Ice Age Europe and Asia
+5.28: wooden club at Kalambo Falls, Tanzania
+5.27: 1st cave bears, reindeer, goats, modern cattle (aurochs)
+5.26: global cooling
+5.25
+5.24
+5.23
+5.22
+5.21: (distance to 1987 supernova in lightyears)
+5.20: Acheulean hand-axes still in use near Galilee
+5.19: modern skulls at Awash Valley, Ethiopia 
+5.18 = 150,000 yrs BC: woolly mammoth
+5.17: language-related FOXP2 mutation 
+5.16: Mousterian flint flake-tools replace Acheulean in n France
+5.15: Africa cooler and drier 
+5.14: dogs diverge from wolves?
+5.13: homo killed by wooden spear in Tabun, Israel?
+5.12: homo sapiens evolve chins  (men shaving beards?)
+5.11: global warming 
+5.10 = 125,000 yrs BC
+5.09: German elephant pierced by wooden spear
+5.08: high sealevels (warm Russ-Wurm interglacial, 10k yrs)
+5.07
+5.06: Ngaloba skull at Laetoli (non-Neanderthal homo sapiens)
+5.05: 35k-yr cool wet spell in Europe (temps drop 15 degrees?)
+5.04: some hominids venture back into heavy forests
+5.03: shaped and colored mammoth's tooth
+5.02: ivory plaque in Tata, Hungary
+5.01: hunting of mainly-weakened big-game (young, old)
+5.00 = 100,000yrs BC: limit of C14 dating
+4.99: genetic Eve? ; Little Ice Age
+4.98: grave goods (deer head) in Qafzeh Cave burial (Israel)
+4.97: microliths fitted to wooden shafts in S Africa
+4.96 = 88,000 BC: cannibalism in Yugoslavia
+4.95
+4.94: Sahara more arid than today
+4.93
+4.92: probable intentional burial 
+4.91 = 78,000 BC
+4.90
+4.89
+4.88
+4.87: volcanic winter after Toba (Sumatra) eruption  
+4.86: geometric scratchings on ochre 
+4.85 = 68,000 BC: 1st polar bears (in London!)
+4.84: body lice diverge from head lice (via clothes) 
+4.83
+4.82
+4.81
+4.80: homo sapiens displace neanderthals in mideast
+4.79: homo reaches Australia?
+4.78 = 58,000 BC: brief global warming
+4.77: Iraq burial w/medicinal flowers
+4.76: neanderthal cave 'altar' in Monte Circeo, Italy
+4.75: neanderthal inbreeding
+4.74: Shanidar (Iraq) neanderthals bind/flatten babies' heads?
+4.73: 20-ft oval of mammoth tusks in Ripiceni-Izvor, Romania
+4.72: 1st Australians hunt giant marsupials to extinction
+4.71: multicolored bodypaint
+4.70 = 48,000 BC: population spurt (African diaspora?) 
+4.69: neanderthal cemetery in La Ferrassie, France
+4.68: burial w/goat-horns in Teshik Tash, Russia
+4.67: bone whistle in Haua Fteah, Libya; bone points in Hungary
+4.66: hypothetical daughter-of-Eve 'Ursula' in N Greece 
+4.65: mideast middens show more hares (vs turtles) being eaten
+4.64: Aterian toolkit across Sahara incl points w/tangs
+4.63: beads as body-ornaments 
+4.62: Cro-Magnons in Europe; blade toolkit in n Africa
+4.61 = 38,000 BC: Russians wear furs 
+4.60: modern humans mate with Neanderthals
+4.59: 10k-yr thaw in Ice Age
+4.58
+4.57: blade-style toolkit in Europe
+4.56: star chart? 
+4.55
+4.54
+4.53: hunter-gatherers in tribes of ~40 worldwide
+4.52: Chatelperronian 'knife' in sw France
+4.51
+4.50: Asians invade Europe?  
+4.49: cave paintings at Chauvet Pont d'Arc 
+4.48 = 28,000 BC: Dyuktai culture in Siberia
+4.47: (distance to center of Milky Way in lightyears)
+4.46: last Neanderthals? ; flutes and whistles in Eurasia
+4.45: possible humans at El Cedral, Mexico
+4.44: woven cloth? ; obsidian, flint traded long-distance
+4.43: ceramic 'Venus' in Czech Republic
+4.42: Gravettian toolkit across Eur; shells traded long-distance
+4.41: axe-adzes in New Guinea; tailored clothes near Moscow
+4.40: hypothetical daughter-of-Eve 'Xenia' in Caucasus 
+4.39: cremation in Lake Mungo, Australia
+4.38: tribes specialise in hunting particular species
+4.37: Los Angeles man in California?
+4.36: hut of mammoth-bones in Mezhirich, Russia
+4.35: artifacts at Predmost, Czech Republic
+4.34: Siberians make stone fireplaces, fat-burning lamps
+4.33: Solutrean tools in France and Spain (laurel-leaf points)
+4.32: megafauna survive in Australia; Koonalda Cave paintings
+4.31: probable hearth at Tlapacoya, Mexico; bow and arrow
+4.30 = 18,000 yrs BC: low sealevels (no English Channel)
+4.29: hypothetical daughter-of-Eve 'Helena' in S France 
+4.28: possible humans at Flea Cave, Peru
+4.27: large stone tools generally replaced by microliths
+4.26: tents, sewing, bone needles w/eyes
+4.25: ivory head in Brassempouy, France
+4.24: trepanned skulls? ; star chart? 
+4.23: cave paintings at Lascaux 
+4.22: daughters-of-Eve 'Velda' in N Spain, 'Tara' in Italy 
+4.21: pre-Clovis points at Meadowcroft, Pennsylvania
+4.20: Magdalenian toolkit in w Europe (fine bone carving)
+4.19: hypothetical daughter-of-Eve 'Katrine' in N Italy 
+4.18 = 13,000 yrs BC: humans in Alaska and Peru
+4.17: grinding stones and sickles in Egypt
+4.16: polished stone tools in New Guinea
+4.15: fishhooks, harpoons, spear-throwers (compound tool)
+4.14: cemetery at Jebel Sahaba, Egypt w/many violent deaths
+4.13: Bering Strait finally submerges landbridge
+4.12: 72 reindeer butchered at Meiendorf, Germany
+4.11: wooden artifacts in Monte Verde, Chile
+4.10 = 10,500 yrs BC: Holocene epoch 
+4.09: hypothetical root language 'Nostratic' 
+4.08: Natufian culture in mideast incl village at Ain Mallaha
+4.07: Clovis people hunt Amer mammoth-etc to extinction? 
+4.06: dramatic global warming ends Ice Age; Vela supernova
+4.05: arrows in Ahrensburg, Germany; pillars of Gobekli Tepe 
+4.04: engraved slate plaques in Gonnersdorf, Germany
+4.03: European extinctions (mammoth, woolly rhino)
+4.02: wheat and barley domesticated (1st beer?)
+4.01: hypothetical daughter-of-Eve 'Jasmine' in Syria 
+4.00 = 8000 BC: goats domesticated
+3.99: fire-drills and woven crafts at Guitarrero Cave, Peru
+3.98: fired-clay pottery; navigation of Aegean; Jericho wall
+3.97: sheep and pigs domesticated; irrigation in New Guinea
+3.96 = 7000 BC: Kennewick man; cattle domesticated; 1st copper
+3.95: Jericho culture-change incl skulls w/plaster faces
+3.94: 40 erectus-like skeletons at Kow Swamp, Australia
+3.93: Lake Agassiz ; discovery of prime numbers? 
+3.92: humans drive bison into Colorado gully (Olsen-Chubbock)
+3.91 = 6000 BC: idyllic Catal Hoyuk 
+3.90: re-desertification of Sahara 
+3.89: hypothetical Black Sea flood/salinisation 
+3.88: developed obsidian-trade in mideast (via donkeys?)
+3.87: simple irrigation in Iran, Catal Hoyuk
+3.86: dingos in Australia
+3.85 = 5000 BC
+3.84: trepanned skulls 
+3.83: stone buildings; cow's milk (lactose tolerance)
+3.82: portraits on pottery; increasing copper-trade
+3.81: astronomical megalith in Egypt 
+3.80: proto-Indo-European language 
+3.79: mutation creates woolly sheep; corncobs in Peru
+3.78 = 4000 BC: domestication of horse; painted pottery
+3.77: Egypt and Sumer; grain silos at Fayum, Egypt
+3.76: circumcision in Egypt  ; Little Ice Age
+3.75: pipe-and-drum music; metal-working in Thailand
+3.74: early writing; copper mines and gold in Balkans
+3.73: Oetzi the Iceman 
+3.72: Newgrange megalith in Ireland; mideast pork-taboo 
+3.71: wheeled oxcarts; Egyptian canals; 1st arch
+3.70 = 3000 BC: Egypt unified; riverboats with sails
+3.69: dream interpretation, reading entrails
+3.68: oral Gilgamesh epic; Phoenicians 
+3.67: pyramids, calendar
+3.66: bronze; soldering; harps
+3.65: papyrus and ink; Ebla; Ur; Amazon monuments 
+3.64: Sargon's Akkadian empire; Mohenjo-daro has sewers
+3.63: antiphonal chants; Egyptian wisdom literature 
+3.62: Stonehenge ; Lilith ; 1st chariots
+3.61 = 2000 BC: ziggurats; Babylonian creation epic
+3.60: sailing ships, Minoan palaces 
+3.59: Sinuhe's autobiography ; habiru bandits 
+3.58: Phaistos disk ; Code of Hammurabi 
+3.57: consonantal alphabet in Sinai ; Hyksos
+3.56: Rhind mathematical papyrus 
+3.55: Egyptian Book of the Dead; lutes
+3.54: Egyptian gold-glut; Hatshepsut ; glass bottles; incense
+3.53: Nippur city-map; Thera erupts?; Ugarit religious texts 
+3.52: Amarna letters ; Akhenaten's religious heresy 
+3.51: chanting of Rigveda?; writing tablets ; Little Ice Age
+3.50: love poems in Egypt; Sea Peoples, Trojan war? 
+3.49: I Ching ; pentatonic scale; Bedouins w/camels 
+3.48 = 1000 BC: mouth-organ in China
+3.47 = 950 BC: dark ages in mideast ; purple dye in Tyre
+3.46 = 880 BC: Italian iron mines; Ahab weds Jezebel?
+3.45 = 820 BC: Upanishads; Carthage founded; cult of Dionysus
+3.44 = 750 BC: Homer and Hesiod ; lyres, bards; Amos?
+3.43 = 690 BC: uniform coinage; lyric poetry ; Isaiah?
+3.42 = 630 BC: Zoroaster; Josiah's book of the law; Sappho
+3.41 = 570 BC: Jerusalem razed; Aesop's fables ; Tao-te Ching
+3.40 = 510 BC: Buddha enlightened ; Pythagorean math-cult 
+3.39 = 450 BC: Confucius; Aeschylus ; Aristophanes 
+3.38 = 400 BC: Peloponnesian war; Socrates dies; Ezra's Torah
+3.37 = 340 BC: Plato, Aristotle ; Alexander the Great
+3.36 = 290 BC: Epicurus ; Euclid ; crossbow; Septuagint 
+3.35 = 240 BC: Archimedes ; Hannibal; Great Wall of China
+3.34 = 190 BC: Bk of Daniel (idea of messiah, resurrection) 
+3.33 = 140 BC: Rome conquers Greece, Carthage; expels Jews
+3.32 = 90 BC: Antikythera computer ; Dead Sea Scrolls ; tofu
+3.31 = 40 BC: Cicero ; Lucretius; Julius Caesar; Virgil
+3.30 = 1 AD: Ovid; Jesus ; Claudius ; Bhagavad Gita
+3.29 = 50 AD: Paul; Petronius ; Falco ; Pompeii buried
+3.28 = 90 AD: Book of Revelation; idea of Anti-Christ; gnosticism
+3.27 = 140 AD: zither; Jews expelled from Jerusalem; Ptolemy 
+3.26 = 180 AD: plague; Marcus Aurelius; Galen; runes
+3.25 = 220 AD: Mishnah; Origen ; Diophantus 
+3.24 = 260 AD: neoplatonism ; Manicheism
+3.23 = 300 AD: Constantine's Roman Christianity
+3.22 = 340 AD: Arianism; St Anthony ; Julian; Ulfias
+3.21 = 380 AD: alchemy?; theory of Trinity; Jerome's latin Bible
+3.20 = 420 AD: Augustine; St Patrick ; Jerusalem Talmud 
+3.19 = 450 AD: Attila, fall of Rome; tantric Buddhism; Slavs
+3.18 = 500: Babylonian Talmud ; Arabian Nights; stirrups
+3.17 = 530: Boethius ; Justinian; King Arthur; Benedictines
+3.16 = 550: Taliesen in Wales; plague in Europe; zero in India 
+3.15 = 590: Gregorian chant; Viking longboats
+3.14 = 620: Mohammed's Koran; Uralic invasion of Finland
+3.13 = 650: Arabs conquer Syria-Iraq-Egypt-Persia, burn library?
+3.12 = 680: Dome of the Rock in Jerusalem
+3.11 = 710: Arabs in Spain and India; Venerable Bede
+3.10 = 750: Baghdad is Arab capital; papermaking; Irish whiskey
+3.09 = 780: Charlemagne; Gebir's chemistry; Book of Kells
+3.08 = 800: Arabs' translation-movement; Vedanta; Machu Picchu
+3.07 = 830: Zen (Ch'an) Buddhism; Dublin founded
+3.06 = 850: split between Rome and Byzantium; gunpowder?
+3.05 = 880: Norwegians settle Iceland
+3.04 = 900: Sufism
+3.03 = 930: pipe organs; global warming
+3.02 = 950: water mills; Jews' controversial Kol Nidre prayer 
+3.01 = 980: Arabic numerals
+3.00 = 1000: Vinland; Beowulf
+2.99: Avicenna ; Al-Biruni ; Alhazen; magnetic compass
+2.98: Lady Godiva; Lady Murasaki's "Tale of Genji" 
+2.97: troubadors; Domesday Book (English tax census) 
+2.96 = 1100: Crusades; Omar Khayyam ; scholasticism
+2.95: Abelard castrated for affair with Heloise 
+2.94: Cistercians; checkers; coal for smelting iron
+2.93: Notre Dame's gothic architecture; murder of Becket
+2.92: Averroes, Maimonides; Little Ice Age; Genghis Khan
+2.91 = 1200: Fibonacci ; Magna Carta; St Francis
+2.90: Oxford University, Grosseteste ; sitars
+2.89: Inquisition; Frederick II 
+2.88: Albertus Magnus ; Rumi; Roger Bacon 
+2.87: Thomas Aquinas ; kabbalah
+2.86: Marco Polo; Jews expelled from England & France; Braveheart
+2.85 = 1300: Raymond Lully ; Giotto; madrigals; KISS ME
+2.84: Dante's Divine Comedy ; Tenochtitlan
+2.83: spinning wheel; Ockham's razor 
+2.82: Petrarch; cannon-warfare
+2.81: Black Death; Boccaccio's 'Decameron'
+2.80: Wycliffe ; Noh drama; Oresme 
+2.79: Great Schism in papacy; Chaucer's "Canterbury Tales"
+2.78 = 1400: tarot 
+2.77: Huss burned; Chinese naval conquests
+2.76: Kempis' "Imitation of Christ"; Joan of Arc burned
+2.75: Nicholas of Cusa ; Leone Battista Alberti 
+2.74: Gutenberg's printing press
+2.73: Francois Villon; Malory's "Morte D'Arthur"
+2.72: Botticelli's Birth of Venus 
+2.71: Columbus; Sikhism; Borgias
+2.70 = 1500: Leonardo da Vinci , Michelangelo
+2.69: Erasmus; Machiavelli's 'Prince' 
+2.68: Luther's 95 theses; Little Ice Age; fuckin
+2.67: Paracelsus , Rabelais; Mennonites; Jesuits ; Calvin 
+2.66: Peter Ramus , Durer , Mercator 
+2.65 = 1550: Vesalius, Copernicus ; Queen Elizabeth
+2.64: John Dee , Giambattista della Porta ; Huguenots killed
+2.63: Montaigne; Giordano Bruno ; Simon Stevin 
+2.62: Spanish Armada; Vieta's algebra ; Edict of Nantes
+2.61 = 1600: Bruno burned; Shakespeare's Hamlet ; Kepler 
+2.60: Francis Bacon ; telescope ; Ben Jonson; King James Bible
+2.59: Rosicrucians ; Cervantes ; Napier's logarithms 
+2.58: Pilgrims on Mayflower; John Donne
+2.57 = 1625: Burton's "Anatomy of Melancholy" 
+2.56: Galileo's trial ; Jacob Boehme; Descartes 'cogito' 
+2.55: English Civil War; Taj Mahal; Rembrandt
+2.54 = 1650: Herrick's 'Lovers' ; Hobbes ; Quakers
+2.53: Boyle ; Royal Society; Vermeer; London plague and fire
+2.52: Milton's "Paradise Lost" ; Wilkins' thesaurus 
+2.51 = 1675: Spinoza's Ethics ; microscope; calculus 
+2.50: Newton's Principia 
+2.49: Amish; Locke ; Leibnitz 
+2.48 = 1700: Newton's Optics
+2.47: piano; Berkeley 
+2.46: Marten's masturbation-taboo ; Freemasons; Bach
+2.45: Defoe's "Robinson Crusoe"; South Sea Bubble; Hasidism
+2.44 = 1725: Vico's "New Science"; Swift's "Gulliver's Travels" 
+2.43: looms driven by punched cards; rice-futures exchange 
+2.42: Linnaeus ; Euler ; Hume; Swedenborg; women novelists
+2.41: Voltaire; Saudis adopt Wahhabism; 1st symphonies
+2.40 = 1750: Rothschild banking dynasty ; French Encyclopedia
+2.39: sextant; chronometer; Sterne's "Tristram Shandy"
+2.38: Rousseau's "Social Contact"
+2.37: 6000-part automaton
+2.36: Watt's steam engine; Shakers; Messier's catalog 
+2.35 = 1775: Smith's "Wealth of Nations" ; American Revolution
+2.34: Shakers; Gibbon's "Decline and Fall of the Roman Empire" 
+2.33: Uranus; mesmerism; Kant ; Mozart; Lavoisier
+2.32: Blake's "Marriage of Heaven and Hell" 
+2.31: French Revolution; Bentham ; Malthus; Rosetta Stone
+2.30 = 1800: Laplace ; Louisiana Purchase
+2.29: Napoleon proclaimed emperor; Goethe's 'Faust'
+2.28: Dalton's atomism; Jane Austen
+2.27: Scott's 'Waverly'
+2.26: Battle of Waterloo
+2.25: Byron ; railroad; electric motor
+2.24 = 1825: Beethoven's 9th; photography
+2.23: Pushkin's "Eugene Onegin"; Mormons; Robert Owen
+2.22: Patrick Matthew's natural selection 
+2.21: Babbage designs Analytic Engine ; Alamo
+2.20: telegraph; Poe; Bolzano ; Baha'i; Neptune; Victoria
+2.19: Opium War; Joule; potato famine; Pre-Raphaelites 
+2.18 = 1851: goldrush; Moby-Dick; Roget's Thesaurus 
+2.17: Thoreau's Walden; Whitman's Leaves of Grass
+2.16: Flaubert's "Mrs Bovary" ; Neanderthal skeletons
+2.15: Baudelaire's "Fleurs du Mal"; Darwin; "Great Expectations"
+2.14: US Civil War; "Alice's Adventures in Wonderland"
+2.13: Mendel; Marx's "Das Kapital" ; Suez Canal
+2.12: Mendeleev; Chicago fire
+2.11: Tolstoy's "Anna Karenin"; Dewey Decimal System
+2.10 = 1876: Bell's telephone; Custer's last stand; Swan Lake
+2.09: Edison's phonograph, lightbulb; Ibsen's "Doll's House"
+2.08: Twain's "Huck Finn"; Krakatoa; Maxim gun; Mikado
+2.07: Statue of Liberty; Peirce's electrical logic machine 
+2.06 = 1889: Kodak; Coke; Jack the Ripper; Nietzsche goes mad
+2.05: Wm James' Psychology ; van Gogh dies; Gauguin to Tahiti
+2.04: Steinmetz ; Universal Decimal Classification; electron 
+2.03: trial of Oscar Wilde ; Nobel prizes; Congo genocide
+2.02: Dreyfus affair; zionism; Hearst's Spanish-American War
+2.01: fauvism; Polti's "36 Dramatic Situations" 
+2.00 = 1901: Freud's "Interpretation of Dreams" 
+1.99: Picasso's blue period ; Wright Bros; Bloomsday 
+1.98: Einstein's miracle-year; Scott Joplin's 'Bethena'; SF quake
+1.97: worldlines; cubism; Nijinsky; Model T Ford; Tunguska meteorite
+1.96 = 1911: Britannica's 11th edition ; Titanic sinks
+1.95: Anti-Defamation League; Proust's "Swann's Way"
+1.94: Peace Ship; Panama Canal
+1.93: Russian revolutions; Balfour Declaration; killer flu
+1.92: prohibition; radio; jazz ; Winnie the Pooh
+1.91 = 1921: Torres y Quevedo ; Wittgenstein's Tractatus 
+1.90: Irish Free State; Joyce's 'Ulysses' 
+1.89: leaded gas; Bernays' "Crystallizing Public Opinion"
+1.88: Scopes 'Monkey Trial'; QM; "The Jazz Singer"; OED; photons
+1.87: Fed Radio Commish reallocates spectrum ; Mickey Mouse
+1.86: Krishnamurti dissolves religious order ; Wall St crash; Pluto
+1.85 = 1931: Basic English ; Gödel ; Gandhi's civil disobedience; neutron
+1.84: Hitler made chancellor; FDR's New Deal; faceted indexing 
+1.83: Communications Act requires serving public interest; Apache dance
+1.82: Stalin; 12-step; Marx Bros' "Night at the Opera"; Keynes
+1.81: Spanish Civil War; Amelia Earhart lost; "War of the Worlds"
+1.80: "Finnegans Wake" ; Billie Holiday's "Strange Fruit"
+1.79: Bell's Complex Number Computer ; NBC tv; penicillin
+1.78 = Dec1941: "Citizen Kane"; Pearl Harbor
+1.77: Myers-Briggs Type Indicator ; Hoffman's LSD; Ayn Rand
+1.76: Cousteau's aqualung; stored-program cpu-architecture
+1.75: Hiroshima; Memex ; RAND ; UN; geodesic dome; W born
+1.74 = 1946: gnostic gospels; 'Iron Curtain'; Nuremberg trials
+1.73: Indian independence; Israeli independence; UFOs; transistor
+1.72: Graves' White Goddess; NATO; 1984; Mao Tse-tung; Nature Boy
+1.71: "Guys and Dolls"; Peanuts; "Catcher in the Rye"; Korean war
+1.70 = Dec1951: Mad Magazine; Mortimer Adler's Syntopicon 
+1.69: DNA cracked; Playboy; Scientology; McCarthy hearings
+1.68: Stevens' "Of Mere Being" ; Elvis Presley; Disneyland
+1.67: Nabokov's "Lolita"; Ginsberg's 'Howl'; Rosa Parks
+1.66: JL Austin ; Cat in the Hat; Kerouac's "On the Road"
+1.65 = 1957: IGY ; ObL born; Sputnik; ARPA; Hula Hoop
+1.64: Barbara O'Brien's "Operators and Things" ; LISP ; Castro
+1.63: 'Black Orpheus' ; Ellmann's "James Joyce" ; the Pill
+1.62: OPEC; PDP-1
+1.61 = 31Dec 1961: Bay of Pigs; Berlin Wall; "Silent Spring"
+1.60: Warhol's soup cans; Marilyn dies; missile crisis; ASCII, valium
+1.59: MLK "I have a dream"; JFK shot; Dr Strangelove ; Girl from Ipanema
+1.58: IBM 360; Furthur; "Hard Day's Night"  ; Sam Smith ; Tonkin Gulf
+1.57: Dylan gets Beatles high ; Malcolm X shot; Pinter's 'Homecoming'
+1.56: Watts riots; Nader's "Unsafe at Any Speed"
+1.55: regular expressions 
+1.54 = 1967: Sgt Pepper's; LBJ hides Israeli warcrimes; Che dies
+1.53: Incredible String Band ; Zap Comix; 2001; Barbarella
+1.52: Englebart's mouse-demo ; Moonwalk; Woodstock; Laws of Form 
+1.51: Monty Python; Unix ; Xerox PARC ; Kent State
+1.50: "Monday Night Class" ; Jay Forrester's eco-sim 
+1.49: Altman's "McCabe and Mrs Miller" ; Michael Hurley 
+1.48 = 1971
+1.47: Ms. mag; 1st Rainbow Gathering; Smalltalk ; Pong; Roe-Wade
+1.46: Skylab; "American Graffiti" ; Scaife 
+1.45: D&D ; Rivette's "Celine and Julie Go Boating" 
+1.44: Pynchon's "Gravity's Rainbow"; Stone's "Dog Soldiers" 
+1.43: Nixon resigns; Muhammed Ali reclaims crown; SNL; W's MBA
+1.42: Iris Murdoch's "A Word Child" ; East Timor genocide
+1.41: Doctorow's 'Ragtime'; Marley's "Natty Dread"; SCTV; W's DUI
+1.40 = 1976: Emacs; 6502 chip; Julian Jaynes; "Selfish Gene"
+1.39: R.Adler's "Speedboat"; string theory; Mars landing; Apple ][
+1.38: Saturday Night Fever; Watching the Detectives; bonobo sex
+1.37: "A Pattern Language" ; VisiCalc; Rickie Lee Jones ; FOIA
+1.36: "Deer Hunter" ; Jonestown suicides; Sony Walkman; B52s
+1.35: Dancing Barefoot; Thatcher; Ayatollah; RC heart attack
+1.34: Three Mile Island; Joni's 'Mingus' ; Viz mag; 4AD
+1.33: Voyager's Jupiter; Pretenders; "Far Side" comic; Usenet 
+1.32: Pac-Man ; CNN; Anti-Math ; Iran-Iraq war
+1.31: Mt St Helens; Lennon shot; Reagan shot; AIDS; 10k Maniacs
+1.30 = Dec1981: IBM PC; MTV; French Minitel; Wharton's 'Dad' 
+1.29: Kate Bush's "The Dreaming"; ObL joins muj.; CIA funds aQ
+1.28: Commodore 64; Sharon's warcrimes in Lb.; Moon's WashTimes
+1.27: USA Today; Chimpanzee Politics; liposuction; Beirut bomb
+1.26: Girls Just Want To Have Fun; Rumsfeld visits Saddam
+1.25: Van Dyke Parks 'Jump!' ; King of Comedy 
+1.24: Willner/Monk "That's The Way I Feel Now" ; Repo Man
+1.23 = 1984: Apple Macintosh ; Cyc project ; RC heart attack
+1.22: Bhopal tragedy; Calvin and Hobbes; Mary Coughlan 
+1.21: "Balance of Power" ; Feynmann's QED; Nintendo; W born again
+1.20: 80386 ; the WELL; Challenger explodes; Reagan aids muj.
+1.19: Burning Man ; Lynch's Blue Velvet ; Soros/Harken bails out W
+1.18 = 31Dec 1986: Chernobyl; Iran-Contra scandal; W drills well w/Enron
+1.17: Simpsons debut; Full Metal Jacket ; Greenspan chairs Fed
+1.16: Reagan's FCC abandons Fairness Doctrine; US shoots down Iran 665
+1.15: HyperCard; Prozac; stock market crash; MP3; crack cocaine
+1.14: Bonfire of the Vanities ; Barger's Solace ; Enya; PanAm 103
+1.13: Rush Limbaugh goes national; 'They Live'; MST3K; The Onion
+1.12: Morris Worm; PixelVision; ObL's aQ; RC heart attack
+1.11: Rushdie fatwah; Exxon Valdez; Tiananmen Square; Tetris
+1.10 = 01Jul 1989: Will Wright's SimCity; AOL; Baywatch
+1.09: US invades Panama; Mary Zimmerman's 'Odyssey'; S&L bailout
+1.08: SF earthquake; fall of Berlin Wall; Marta Sebestyen 
+1.07: Judi Bari victim of anti-environmentalist carbomb 
+1.06: Twin Peaks; Sinead O'Connor; W dumps Harken stock
+1.05: Bly's "Iron John"; Camille Paglia; aQ kills Rabbi Kahane
+1.04: "GoodFellas"; Ani DiFranco's Righteous Babe; Harken tanks
+1.03: Gulf War; Nirvana; Massive Attack; ObL in Sudan
+1.02: gopher; Tom Ray's alife Tierra; Clarence Thomas
+1.01: Be computer ; Iceman discovered ; fractal thickets
+1.00 = 31Dec 1991: Jellyeye's "Avalanch Ranch" ; FWAKE-L project
+0.99 = 9.77: Linux project ; Kate Moss; Enron's Dabhol project
+0.98 = 9.55: Whole Internet Guide; Tori Amos; RC warplan
+0.97 = 9.33: Chomsky documentary "Manufacturing Consent" 
+0.96 = 9.12 = 1992: "Finn's Hotel" hoax ; "Reservoir Dogs" 
+0.95 = 8.91: Moby; Newton PDA; KSM aids WTC bomb; Carlyle Group
+0.94 = 8.71: Apr: Waco; Clinton bombs Baghdad; Fermat proved
+0.93 = 8.51: aQ aids Black Hawk Down; Vince Foster suicide
+0.92 = 8.32: Aug: Mosaic 1.0 ; Andrea Chen ; X-Files
+0.91 = 8.13 = 1993: Dec: NAFTA; Hubble fixed; Carmack's Doom 
+0.90 = 7.94: Bill Bixby haiku ; Rwanda genocide
+0.89 = 7.76: OJ murders ; Saudis exile ObL; aQ in Sudan
+0.88 = 7.59: Cobain suicide ; TV Nation ; HC's healthcare flop
+0.87 = 7.41: Shahak's "Jewish History, Jewish Religion" 
+0.86 = 7.24: Gingrich's Contract on America; W&Rove Texas gov.
+0.85 = 7.08 = 1994: Portishead, trip-hop; aQ tests shoebomb
+0.84 = 6.92: Riverdance ; Kobe quake ; Yahoo ; aQ fire in Manila
+0.83 = 6.76: Apr: GreenCard spam ; McVeigh ; Pullman HDM 
+0.82 = 6.61: BC&Gingrich vow cmpgn-finance reform ; Monica WH intern
+0.81 = 6.46: Aug: heatwave ; Netscape IPO ; DejaNews ; Alanis 
+0.80 = 6.31: Sep: eBay ; Unabomb txt ; KSM plans WTC air-attack
+0.79 = 6.17: OJ acquitted ; Dogme 95 ; RC CEO of HAL
+0.78 = 6.03 = 1995: Dec: Altavista ; Deutch's CIA secrets on AOL
+0.77 = 5.89: mad cow ; Deep Blue beats Kasparov ; ValuJet crash
+0.76 = 5.75: Apr: Unabomb bust ; Beanie Babies ; Khobar bombing
+0.75 = 5.62: Fargo ; Dark Alliance ; TWA 800 ; US weighs Iran war
+0.74 = 5.50: Telecom Act allows megamergers ; Atlanta Olympics
+0.73 = 5.37: welfare reform ; Spice Girls ; Israel bombs refugees
+0.72 = 5.25: Palm Pilot ; WebTV ; Taliban rule A'stan; aJ founded
+0.71 = 5.13: Tamagotchis ; USA-jihad by ObL; KSM indicted
+0.70 = 5.01 = 1996: Leslie Stahl: "Shouldn't this be expunged?"
+0.69 = 4.90: Apple buys NeXT ; AutoDesk's dancing baby
+0.68 = 4.79: Madeleine Albright: "We think the price is worth it"
+0.67 = 4.68: Tony Blair ; KSM meets ObL but doesn't join aQ
+0.66 = 4.57: Lilith Festival tour ; Project for a New American Century
+0.65 = 4.47: (distance to Alpha Centauri in lightyears); KSM flees FBI trap
+0.64 = 4.37: Ted Turner pledges $1B to UN ; aQ trains Atta
+0.63 = 4.27: Princess Di dies ; Ally McBeal ; Elvis Index 
+0.62 = 4.17: Julia Butterfly's treesit ; Slashdot ; XML 1.0 
+0.61 = 4.07 = 1997: Robot Wisdom Weblog 
+0.60 = 3.98: Drudge breaks Monica Lewinsky scandal 
+0.59 = 3.89: Bill Gates pied ; HC's "right-wing conspiracy"
+0.58 = 3.80: terror groups merge w/aQ; CIA drops ObL kidnap-plot
+0.57 = 3.72: Google surfaces ; aQ attacks embassies in Africa
+0.56 = 3.63: Internet Movie Database sells out to Amazon 
+0.55 = 3.55: "Damascus Gate" ; Subgenius X-Day ; iMac
+0.54 = 3.47: Clinton bombs Sudan pharmco : HampsterDance 
+0.53 = 3.39: Starr Report released ; McSweeney's 
+0.52 = 3.31: Digital Millennium Copyright Act 
+0.51 = 3.24: Sosa-McGwire homerun derby ; Furbies 
+0.50 = 3.16: W's baseball-scam ; Pinochet arrested ; UNSCOM out of Iraq
+0.49 = 3.09: PDB: ObL plans hijack US aircraft; HAL cooks books
+0.48 = 3.02 = 1998: Viagra; PayPal ; KSM&ObL's "planes operation"
+0.47 = 2.95: AtHome buys Excite for $6.7B ; CIA may kill ObL
+0.46 = 2.88: Gore "took initiative" for Internet; KSM joins aQ
+0.45 = 2.82: Britney ; McLibel verdict ; Kosovo ; ObL not shot
+0.44 = 2.75: Columbine ; TiVo ; EverQuest ; NyT smears Wen Ho Lee
+0.43 = 2.69: Healtheon buys WebMD for $5B ; China embassy bombed
+0.42 = 2.63: Sony Aibo ; Salon IPO ; TLC's No Scrubs ; ObL not shot
+0.41 = 2.57: Archimedes Plutonium retires from dishwashing 
+0.40 = 2.51: CMGI buys AltaVista for $2.3B ; JFK Jr dies 
+0.39 = 2.45: Pokemon ; Napster ; W's compassionate conservatism
+0.38 = 2.40: East Timor votes for independence; Waltz #2
+0.37 = 2.34: Chicago heatwave ; hjckrs seek US visas
+0.36 = 2.29: Epinions.com ; hjckrs train in A'stan
+0.35 = 2.24: W executes Karla Faye Tucker ("Don't kill me!")
+0.34 = 2.19: Shahak et al's "Jewish Fundamentalism in Israel" 
+0.33 = 2.14: Seattle WTO protests  ; Hamburg aQ cell forms
+0.32 = 2.09: Mitch Glazier writes artists out of copyright law 
+0.31 = 2.04: Being John Malkovich ; Topsy Turvy ; 'Millennium' plot
+0.30 = 2.00 = 31Dec 1999: Y2K mania ; hjckrs study US culture
+0.29 = 1.95: AOL/Time-Warner merger ; aQ meet in Malaysia
+0.28 = 1.91: Oprah acquitted of beef-libel ; Hazmi, Mihdhar to LA
+0.27 = 1.86: McCain slandered; Hamburg cell trains in Kandahar
+0.26 = 1.82: 10Mar: Nasdaq peaks at 5,048.62
+0.25 = 1.78: Elian Gonzales hype ; Atta emails US flight schools
+0.24 = 1.74: Apr: Will Wright's 'The Sims' 
+0.23 = 1.70: DIA's Fallis warns of aQ plot
+0.22 = 1.66: ArsDigita University 
+0.21 = 1.62: Atta flies via Prague
+0.20 = 1.58: Tiger Woods 
+0.19 = 1.55: Courtney Love defends Napster 
+0.18 = 1.51 = 01Jul 2000: RC picks RC for vp
+0.17 = 1.48: bipedal robot ; HTML Ulysses 
+0.16 = 1.45: Civil War sub Hunley raised 
+0.15 = 1.41: Florida reporter wins suit against Fox (reversed) 
+0.14 = 1.38: RC dumps HAL stock
+0.13 = 1.35: Arafat rejects Camp David peace plan
+0.12 = 1.32: PNAC plots catalyzing 'new Pearl Harbor' 
+0.11 = 1.29: Sharon incites intifada ; Predator flights over A'stan
+0.10 = 1.26: Mystikal's 'Danger' ; shorter Finnegans Wake 
+0.09 = 1.23: presidential 'debates' sponsored by Budweiser 
+0.08 = 1.20: aQ bombs USS Cole, Fallis resigns in protest
+0.07 = 1.17: W's DUI leaked; Nicholson Baker buys news archive 
+0.06 = 1.15: 51% turnout for contested US election 
+0.05 = 1.12: "All your base are belong to us"; HAL tanks
+0.04 = 1.10: Mossad apt near hjckrs in Fla?; RC heart attack
+0.03 = 1.07: along party lines, Supreme Court (!?!) chooses W
+0.02 = 1.05: W hunts w/Bandar; Popo erupts ; Nasdaq nears 2500
+0.01 = 1.02: Traffic ; Jazz ; Atta pilot license; BC warns W re aQ
+0.00 = Dec2000: Pacifica locks out 'Democracy Now' 
+-0.01 = 09Jan: W chokes on pretzel; Clarke warns W on aQ
+-0.02 = 18Jan: Cali. blackouts; BC pardons 140; W inaugurated
+-0.03 = 26Jan: Rumsfeld explores military options towards Iraq
+-0.04 = 02Feb: Sharon elected; AHA sues W over Reagan papers
+-0.05 = 10Feb: Mihdhar in Iran?; RC's energy taskforce
+-0.06 = 17Feb: Powell: Saddam has no WMDs; FBI arrests Hanssen
+-0.07 = 24Feb: ObL at wedding in A'stan; hjckr's farewell video
+-0.08 = 03Mar: W rejects Kyoto protocol
+-0.09 = 10Mar: recession officially begins
+-0.10 = 17Mar: Sharon visits W at WH
+-0.11 = 24Mar: EPA okays arsenic in drinking water
+-0.12 = 30Mar: Italy warns W of aQ plot in USA; China spyplane crisis
+-0.13 = 05Apr: Moussaoui lessons in OK; Atta NOT in Prague
+-0.14 = 12Apr: Enron's Lay prescribes energy policy to RC
+-0.15 = 18Apr: briefing: "ObL planning multiple operations"
+-0.16 = 23Apr: FAA warns hijack; Wolf. claims Iraq worse than aQ
+-0.17 = 29Apr: 12 Saudi 'muscle' hjckrs begin entering USA
+-0.18 = 05May: W revives Star Wars; hjckrs get drivers licenses
+-0.19 = 10May: Saudi prince Abdullah criticizes W on Israel
+-0.20 = 16May: RC's energy policy; CIA briefs Ashcroft on aQ
+-0.21 = 21May: $43M aid to Taliban; Sen. Jeffords defects
+-0.22 = 26May: Bin. visits ObL near Kandahar, WH targeted
+-0.23 = 31May: Hazmi, Hanjour settle in NJ; Shehhi casing flight
+-0.24 = 05Jun: Hanjour's flight lessons in NJ; W signs tax cut
+-0.25 = 10Jun: Jarrah flight lessons, casing flight
+-0.26 = 14Jun: KSM tells Bin. to have Atta pick date
+-0.27 = 19Jun: US offers Saudis automatic visas; hjckr anthrax?
+-0.28 = 23Jun: Atta/Hazmi meet; $30k fund; RC hypes Dabhol
+-0.29 = 28Jun: Clarke: v. big attack; Atta cases; Freeh resigns
+-0.30 = 02Jul: FBI cans Phoenix proposal to watch flight schools
+-0.31 = 06Jul: Atta to Madrid; hjckrs join health clubs
+-0.32 = 10Jul: David Letterman cancels Ani DiFranco appearance
+-0.33 = 14Jul: Bin. phones KSM; Judicial Watch sues RC
+-0.34 = 18Jul: anti-aircraft guard for W at Genoa G8 summit
+-0.35 = 22Jul: aQ debates strategy; tax rebates mailed
+-0.36 = 26Jul: Jarrah in Dusseldorf; Atta in Newark
+-0.37 = 29Jul: Shehri to SF via Boston; W to Texas for month
+-0.38 = 02Aug: Atta, Bin. fix teams, argue targets, timing
+-0.39 = 05Aug: PDB: "ObL determined to strike in US"
+-0.40 = 09Aug: W ends most stem-cell research
+-0.41 = 12Aug: hjckrs rendezvous in Vegas; knives purchased
+-0.42 = 15Aug: Minnesota FBI arrests Moussaoui; DC FBI stalls
+-0.43 = 18Aug: Atta/'Jenny' posts details to Bin. via chatroom
+-0.44 = 21Aug: CIA told 2 hjckrs in USA; FBI told Moussaoui aQ
+-0.45 = 24Aug: Jarrah buys air charts, GPS unit; W approval 50%
+-0.46 = 27Aug: next-to-last Israeli business moves out of WTC 
+-0.47 = 30Aug: W claims support for Palestinian statehood
+-0.48 = 02Sep: gen. alert in aQ camps; DC lessons for Hanjour
+-0.49 = 05Sep: Congress back; Atta mails leftover cash to Dubai
+-0.50 = 08Sep: Atta's last call to father; Massoud assassinated
+-0.51 = 10Sep: W reads "My Pet Goat" with Sarasota 2nd-graders
+-0.52 = 13Sep: Congress grants W unlimited war powers
+-0.53 = 15Sep: EPA: WTC air no health hazard; Saudis flown home
+-0.54 = 18Sep: W wants ObL "dead or alive", orders Iraq plan
+-0.55 = 20Sep: Tom Ridge heads Office of Homeland Security
+-0.56 = 22Sep: A'stan warplan outlined; W's approval hits 90%
+-0.57 = 25Sep: Ken Lay hypes Enron stock to employees
+-0.58 = 27Sep: Ari F: "Americans need to watch what they say"
+-0.59 = 29Sep:
+-0.60 = 01Oct:
+-0.61 = 03Oct: anthrax attacks
+-0.62 = 05Oct: A'stan gas-pipeline plans reviewed
+-0.63 = 07Oct: USA begins bombing A'stan
+-0.64 = 09Oct: ObL video; Cokie on oppos: "None that matter"
+-0.65 = 11Oct: Get Your War On debuts 
+-0.66 = 13Oct: Ashcroft memo guts FOIA
+-0.67 = 15Oct: aQ anthrax project in Kandahar abandoned
+-0.68 = 17Oct:
+-0.69 = 18Oct:
+-0.70 = 20Oct: 1st US Special Forces on ground in A'stan
+-0.71 = 22Oct: media falsely report Atta met w/Iraq in Prague
+-0.72 = 23Oct: "USA PATRIOT" Act passed
+-0.73 = 25Oct: bin Ladens withdraw from Carlyle Group
+-0.74 = 27Oct: Abdul Haq executed in A'stan
+-0.75 = 28Oct: Ken Lay begs Don Evans for Enron relief
+-0.76 = 30Oct:
+-0.77 = 31Oct:
+-0.78 = 01Nov: W guts 1978 Presidential Records Act
+-0.79 = 03Nov:
+-0.80 = 04Nov:
+-0.81 = 05Nov: ObL interviewed near Kabul
+-0.82 = 07Nov:
+-0.83 = 08Nov: Enron reports $600M quarterly loss
+-0.84 = 09Nov: Mazar-e-Sharif falls
+-0.85 = 10Nov: aQ retreat to Tora Bora
+-0.86 = 12Nov: fall of Kabul
+-0.87 = 13Nov: US missiles target aJ in Kabul
+-0.88 = 14Nov: HAL wins $140M contract with Saudis
+-0.89 = 15Nov: aQ leader Mohammed Atef killed
+-0.90 = 16Nov: Enron admits overstating profits
+-0.91 = 17Nov:
+-0.92 = 18Nov:
+-0.93 = 19Nov:
+-0.94 = 20Nov:
+-0.95 = 21Nov:
+-0.96 = 21Nov:
+-0.97 = 22Nov:
+-0.98 = 23Nov:
+-0.99 = 24Nov:
+-1.00 = 25Nov: John Walker Lindh in Mazar-e-Sharif prison riot
+Condensed scale:
+-1.03 = 27Nov: W shifts Pentagon toward Iraq
+-1.10 = 02Dec: Enron bankrupt
+-1.13 = 04Dec: 1st Iraq battle plan calls for 400k US troops
+-1.14 = 05Dec: ObL still directing troops in Tora Bora
+-1.18 = 07Dec: Kandahar falls
+-1.27 = 11Dec: 15yo Katie Sierra suspended for antiwar t-shirt
+-1.29 = 12Dec: 2nd Iraq battle plan
+-1.33 = 14Dec: W withdraws USA from ABM treaty
+-1.40 = 16Dec: Tora Bora taken, ObL and Omar escape
+-1.44 = 18Dec: No Child Left Behind Act passed by Congress
+-1.55 = 21Dec: USA bombs tribal elders on way to inauguration
+-1.60 = 22Dec: Karzai inaugurated; shoebomber dud
+-1.70 = 24Dec: FBI investigates Barry Reingold for criticizing W
+-1.90 = 26Dec: Martha Stewart dumps ImClone stock
+-2.00 = 27Dec: 3rd Iraq battle plan calls for 160k ground troops

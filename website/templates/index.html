@@ -1,0 +1,177 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Artemis project</title>
+	<meta name="description" content="Atermis">
+	<meta name="author" content="Franck Dessimoz">
+	<meta name="author" content="Simon Roquette">
+	<meta name="author" content="Justine Weber">
+	<link rel="stylesheet" type="text/css" href="../static/css/index.css">
+</head>
+
+<body>
+
+	<script type="text/javascript" src="../static/js/lib/d3.min.js"></script>
+	<script type="text/javascript" src="../static/js/dots_animation.js"></script>
+	<script type="text/javascript" src="../static/js/main.js"></script>
+	<script type="text/javascript" src="../static/js/helper.js"></script>
+	<script src="https://unpkg.com/d3fc"></script>
+
+	<div class="main-window" id="main">
+		<img id="open-menu-button" src="../static/img/open_menu.png" class="open-menu">
+		<img id="show-only-linked" src="../static/img/link_orange.png" class="show-linked">
+		<img id="show-not-only-linked" src="../static/img/unlink_orange.png" class="show-linked">
+		<img id="remove-filter-button" src="../static/img/trash_orange.png" class="remove-filter-button">
+		<img id="unzoom-button" src="../static/img/unzoom_orange.png" class="unzoom">
+		<div class="plot" id="plot-div">
+			<svg id="plot"></svg>
+		</div>
+		<img id="arrow-down-main" src="../static/img/arrow_down.png" class="arrow_down">
+	</div>
+
+	<div class="description" id="description">
+		<h1>ARTEMIS PROJECT</h1>
+		<hr>
+		</hr>
+		<div class="description-content" id="description-content">
+			<div class="description-c1" id="description-c1">
+				<h2>Idea</h2>
+				<p>
+					Our goal was to design and create a tool to explore the potential correlation between Pop Culture
+					and historical events, using some of the State of the Art NLP tools available.
+					The Billboard Hot 100, which is the music industry standard record chart in the United States
+					for songs, published weekly by <i>Billboard</i> magazine, is the data we used as a measure of Pop Culture. Chart rankings are based on physical and
+					digital sales, radio play and since recently, online streaming in the United States.
+					<br><br><br>
+					<a href="https://www.billboard.com" target="_blank"><img src="../static/img/billboard.png"
+							class="image-in-text-1"></a>
+					<br><br><br>
+					At the end of each year <i>Billboard</i> magazine publishes the <i>Year-End Hot 100</i> singles,
+					which basically means the biggest successes of the year. The purpose of this project is thus to
+					investigate whether the fact that a song is related to a major event could help make it a great
+					success.
+					<br><br>
+					The idea of a visualization using a time-line as the x-axis came very naturally
+					since all the data is centered around the 1965-2015 time period. The time-line allows you
+					to zoom in and get a better idea of the events or songs in a tighter time range, but it also
+					allows you to get an overview on the entire time range. Indeed the time-line visualization combined
+					with the filter tool offers the possibility to find the distribution of a given feature over the
+					fifthy years
+					our data covers - e.g., the distribution of a word in the lyrics since 1965.
+				</p>
+			</div>
+			<div class="description-c2" id="description-c2">
+				<h2>Datasets</h2>
+				<p>
+					In order to achieve the best results possible we had to find the best datasets possible, one for
+					the <i>Billboard Hot 100</i> songs in the period 1965-2015 and one for the major events that
+					happened in that same period.
+					<br>
+					<br>
+					For the <i>Billboard Hot 100</i> songs we started with <a
+						href="https://github.com/walkerkq/musiclyrics" style="color : #ffffff">this dataset</a>. It
+					contains the artist of each song, its name, its rank, its year and its lyrics. Note that in this
+					dataset the lyrics are already formated in a way that was not fitting our need, so we had to get new
+					lyrics by ourselves using two Python lybraries and by web-scrapping manually the ones that could not
+					be found. We scrapped other data as the genre or album features as well as the Youtube video link,
+					in order to make the experience more complete.
+					<br><br><br>
+					<a href="https://pypi.org/project/wikipedia/" target="_blank"><img
+							src="../static/img/python-wiki.png" class="image-in-text-2"></a>
+					<br><br><br>
+					For the major events dataset, we could not find any relevant dataset online, so we had to build our
+					own. On that purpose, we scrapped data from 
+					<a href="https://www.onthisday.com" style="color : #ffffff">this website</a>,
+					to first get the day, month and year of each event as well as a quick description.
+					After that, we used the <i>Wikipedia Python API</i> in order to get the Wikipedia summary for each
+					event as well as its article's url.
+					<br>
+					<br>
+					Since we performed web-scrapping, some of the data might sometimes appear as not being 100%
+					accurate.
+
+				</p>
+			</div>
+			<div class="description-c3" id="description-c3">
+				<h2>NLP Model</h2>
+				<p>
+					To find references between song lyrics and events, we decided to use Named Entity Recognition
+					(<i>NER</i>), which allows us to extract Entities such as Person, Date, Event, Political group,
+					Sociological group… An event and a song are then considered to refer to each other if they have at
+					least one entity in common. We
+					used a “soft comparison”, by saying they one of the entities must contain the other.
+					<br><br><br>
+					<a href="https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270"
+						target="_blank"><img src="../static/img/nlp.png" class="image-in-text-3"></a>
+					<br><br><br>
+					The <i>NER</i> we use comes from <i>Spacy</i>, and, even though it is
+					trained on english, it also works reasonably on other languages, and we happen to have some lyrics
+					that are not in English so it is quite useful.
+					<br><br>
+					By just doing this, we had roughly 60 references per song, which seemed like a lot, so we further
+					applied a text classification method based on a pretrained model of <i>ALBERT</i> (light version of
+					<i>BERT</i>). We vectorized both lyrics and events with the first 512 words - all further are
+					ignored - and then computed cosine similarity between the vectors.
+					<br>
+					<br>
+					Finally, a song is making a reference to an event if they have at least one entity in common, and
+					the cosine similarity of their vector is greater than 0.92.
+				</p>
+			</div>
+		</div>
+		<img id="arrow-down-description" src="../static/img/arrow_down_white.png" class="arrow_down">
+	</div>
+
+	<div class="footer" id="footer">
+		<h1>Meet the team</h1>
+		<hr>
+		</hr>
+		<div class="team">
+			<div class="member">
+				<div class="member-image">
+					<img src="../static/img/bg_grey.png" class="img-bg">
+					<img src="../static/img/franck.png" class="img-team">
+					<a href="https://github.com/franckdess" target="_blank"><img src="../static/img/gh.png"
+							class="res-icon-gh" style="opacity: 0;"></a>
+					<a href="https://www.linkedin.com/in/franck-dessimoz/" target="_blank"><img
+							src="../static/img/li.png" class="res-icon-li" style="opacity: 0;"></a>
+				</div>
+				<h2>Franck Dessimoz</h2>
+				<p>Master student in Data Science at EPFL <br> franck.dessimoz@epfl.ch</p>
+			</div>
+			<div class="member">
+				<div class="member-image">
+					<img src="../static/img/bg_grey.png" class="img-bg">
+					<img src="../static/img/justine.png" class="img-team">
+					<a href="https://github.com/JustineWeb" target="_blank"><img src="../static/img/gh.png"
+							class="res-icon-gh" style="opacity: 0;"></a>
+					<a href="https://www.linkedin.com/in/justine-weber-web/" target="_blank"><img
+							src="../static/img/li.png" class="res-icon-li" style="opacity: 0;"></a>
+				</div>
+				<h2> Justine Weber</h2>
+				<p>Master student in Data Science at EPFL <br> justine.weber@epfl.ch</p>
+			</div>
+			<div class="member">
+				<div class="member-image">
+					<img src="../static/img/bg_grey.png" class="img-bg">
+					<img src="../static/img/simon.png" class="img-team">
+					<a href="https://github.com/simonroquette" target="_blank"><img src="../static/img/gh.png"
+							class="res-icon-gh" style="opacity: 0;"></a>
+					<a href="http://www.linkedin.com/in/simon-roquette-10493015a" target="_blank"><img
+							src="../static/img/li.png" class="res-icon-li" style="opacity: 0;"></a>
+				</div>
+				<h2>Simon Roquette</h2>
+				<p>Master student in Data Science at EPFL <br> simon.roquette@epfl.ch</p>
+			</div>
+		</div>
+		<p>This project has been realized during the course <a href="https://edu.epfl.ch/coursebook/en/data-visualization-COM-480" class="href-youtube" target="_blank">COM-480 Data Visualization</a> at <a href="https://www.epfl.ch/en/" class="href-youtube" target="_blank" >EPFL</a>.</p>
+		<img id="arrow-up-footer" src="../static/img/arrow_up.png" class="arrow_down">
+	</div>
+</body>
+
+</html>

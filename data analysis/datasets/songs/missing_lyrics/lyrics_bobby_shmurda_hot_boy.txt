@@ -1,0 +1,244 @@
+TOP ARTIST
+Ariana Grande
+One Direction
+Katy Perry
+Sam Smith
+Taylor Swift
+TOP NEW ARTIST
+5 Seconds of Summer
+Iggy Azalea
+Hozier
+Sam Smith
+Meghan Trainor
+TOP MALE ARTIST
+Drake
+Pharrell Williams
+Ed Sheeran
+Sam Smith
+Justin Timberlake
+TOP FEMALE ARTIST
+Iggy Azalea
+Ariana Grande
+Katy Perry
+Taylor Swift
+Meghan Trainor
+TOP DUO/GROUP
+5 Seconds of Summer
+Florida Georgia Line
+MAGIC!
+Maroon 5
+One Direction
+TOP BILLBOARD 200 ARTIST
+One Direction
+Pentatonix
+Ed Sheeran
+Sam Smith
+Taylor Swift
+TOP HOT 100 ARTIST
+Iggy Azalea
+Ariana Grande
+Sam Smith
+Taylor Swift
+Meghan Trainor
+TOP DIGITAL SONGS ARTIST
+Iggy Azalea
+Ed Sheeran
+Sam Smith
+Taylor Swift
+Meghan Trainor
+TOP RADIO SONGS ARTIST
+John Legend
+Maroon 5
+Ed Sheeran
+Sam Smith
+Taylor Swift
+TOP TOURING ARTIST
+Lady Gaga
+One Direction
+Katy Perry
+The Rolling Stones
+Justin Timberlake
+TOP SOCIAL ARTIST
+Justin Bieber
+Miley Cyrus
+Selena Gomez
+Ariana Grande
+Taylor Swift
+TOP STREAMING ARTIST
+Iggy Azalea
+Ariana Grande
+Nicki Minaj
+Taylor Swift
+Meghan Trainor
+TOP R&B ARTIST
+Beyoncé
+Chris Brown
+John Legend
+Trey Songz
+Pharrell Williams
+TOP RAP ARTIST
+Iggy Azalea
+J. Cole
+Drake
+Nicki Minaj
+Rae Sremmurd
+TOP COUNTRY ARTIST
+Jason Aldean
+Luke Bryan
+Florida Georgia Line
+Brantley Gilbert
+Blake Shelton
+TOP ROCK ARTIST
+Bastille
+Coldplay
+Fall Out Boy
+Hozier
+Lorde
+TOP LATIN ARTIST
+J Balvin
+Juan Gabriel
+Enrique Iglesias
+Prince Royce
+Romeo Santos
+TOP DANCE/ELECTRONIC ARTIST
+Avicii
+Clean Bandit
+Disclosure
+Calvin Harris
+Lindsey Stirling
+TOP CHRISTIAN ARTIST
+Casting Crowns
+Hillsong United
+Lecrae
+MercyMe
+Newsboys
+TOP BILLBOARD 200 ALBUM
+Maroon 5, V
+Pentatonix, That’s Christmas to Me
+Ed Sheeran, x
+Sam Smith, In the Lonely Hour
+Taylor Swift, 1989
+TOP SOUNDTRACK
+The Fault in Our Stars
+Fifty Shades of Grey
+Frozen
+Guardians of the Galaxy: Awesome Mix: Vol. 1
+Into the Woods
+TOP R&B ALBUM
+Beyoncé, Beyoncé
+Chris Brown, X
+Michael Jackson, Xscape
+John Legend, Love in the Future
+Pharrell Williams, G I R L
+TOP RAP ALBUM
+J. Cole, 2014 Forest Hills Drive
+Drake, If You’re Reading This It’s Too Late
+Nicki Minaj, The Pinkprint
+Iggy Azalea, The New Classic
+Eminem, The Marshall Mathers LP 2
+TOP COUNTRY ALBUM
+Jason Aldean, Old Boots, New Dirt
+Garth Brooks, Man Against Machine
+Luke Bryan, Crash My Party
+Brantley Gilbert, Just As I Am
+Miranda Lambert, Platinum
+TOP ROCK ALBUM
+AC/DC, Rock or Bust
+The Black Keys, Turn Blue
+Coldplay, Ghost Stories
+Hozier, Hozier
+Lorde, Pure Heroine
+TOP LATIN ALBUM
+Juan Gabriel, Los Dúo
+Enrique Iglesias, Sex and Love
+Romeo Santos, Formula: Vol. 2
+Santana, Corazon
+Marc Anthony, 3.0
+TOP DANCE/ELECTRONIC ALBUM
+Avicii, True
+Disclosure, Settle
+Calvin Harris, Motion
+Skrillex, Recess
+Lindsey Stirling, Shatter Me
+TOP CHRISTIAN ALBUM
+Lecrae, Anomaly
+Casting Crowns, Thrive
+MercyMe, Welcome to the New
+NEEDTOBREATHE, Rivers in the Wasteland
+Chris Tomlin, Love Ran Red
+TOP HOT 100 SONG
+Iggy Azalea feat. Charli XCX, “Fancy”
+John Legend, “All of Me”
+Sam Smith, “Stay With Me”
+Taylor Swift, “Shake It Off”
+Meghan Trainor, “All About That Bass”
+TOP DIGITAL SONG
+Mark Ronson feat. Bruno Mars, “Uptown Funk!”
+Sam Smith, “Stay With Me”
+Taylor Swift, “Shake It Off”
+Meghan Trainor, “All About That Bass”
+Pharrell Williams, “Happy
+TOP RADIO SONG
+John Legend, “All of Me”
+MAGIC!, “Rude”
+Nico & Vinz, “Am I Wrong”
+Sam Smith, “Stay With Me”
+Pharrell Williams, “Happy
+TOP STREAMING SONG (AUDIO)
+Iggy Azalea feat. Charli XCX, “Fancy”
+Hozier, “Take Me to Church”
+John Legend, “All of Me”
+Sam Smith, “Stay With Me”
+Tove Lo, “Habits (Stay High)”
+TOP STREAMING SONG (VIDEO)
+Idina Menzel, “Let It Go”
+Bobby Shmurda, “Hot Boy”
+Taylor Swift, “Blank Space”
+Taylor Swift, “Shake It Off”
+Meghan Trainor, “All About That Bass”
+TOP R&B SONG
+Chris Brown feat. Lil Wayne, French Montana, Too $hort & Tyga, “Loyal”
+Jason Derulo feat. 2 Chainz, “Talk Dirty”
+Jeremih feat. YG, “Don’t Tell ‘Em”
+John Legend, “All of Me”
+Pharrell Williams, “Happy”
+TOP RAP SONG
+Iggy Azalea feat. Charli XCX, “Fancy”
+Iggy Azalea feat. Rita Ora, “Black Widow”
+Big Sean feat. E-40, “I Don’t F— With You”
+Nicki Minaj, “Anaconda”
+Bobby Shmurda, “Hot Boy”
+TOP COUNTRY SONG
+Jason Aldean, “Burnin’ It Down”
+Luke Bryan, “Play It Again”
+Sam Hunt, “Leave the Night On”
+Florida Georgia Line feat. Luke Bryan, “This Is How We Roll”
+Florida Georgia Line, “Dirt”
+TOP ROCK SONG
+Bastille, “Pompeii”
+Coldplay, “A Sky Full of Stars”
+Fall Out Boy, “Centuries”
+Hozier, “Take Me to Church”
+Paramore, “Ain’t It Fun”
+TOP LATIN SONG
+J Balvin feat. Farruko, “6 AM”
+Enrique Iglesias feat. Descemer Bueno & Gente de Zona, “Bailando”
+Romeo Santos, “Eres Mía”
+Romeo Santos feat. Drake, “Odio”
+Romeo Santos, “Propuesta Indecente”
+TOP DANCE/ELECTRONIC SONG
+Clean Bandit feat. Jess Glynne, “Rather Be”
+Disclosure feat. Sam Smith, “Latch”
+DJ Snake & Lil Jon, “Turn Down For What”
+Ariana Grande feat. Zedd, “Break Free”
+Calvin Harris, “Summer”
+TOP CHRISTIAN SONG
+Francesca Battistelli, “He Knows My Name”
+Hillsong United, “Oceans (Where Feet May Fail)”
+MercyMe, “Greater”
+Newsboys, “We Believe”
+Carrie Underwood, “Something in the Water”
+BILLBOARD CHART ACHIEVEMENT AWARD PRESENTED BY SAMSUNG GALAXY (FAN-VOTED)
+Iggy Azalea
+Taylor Swift
+Meghan Trainor
