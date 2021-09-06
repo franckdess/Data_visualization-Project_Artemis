@@ -8,7 +8,7 @@
 
 IMPORTANT NOTE : For the moment, the website only works properly on Safari, some functionnalities such as zooming out of the Timeline do not work on other browsers.
 
-This project provides tools to explore correlation between song lyrics and historical events, start exploring at : https://com-480-data-visualization.github.io/com-480-project-artemis/website/templates/
+This project provides tools to explore correlation between song lyrics and historical events, start exploring at : https://franckdess.github.io/Data_visualization-Project_Artemis/website/templates/
 
 Start by clicking on a year to zoom on a specific period, then select an event or a song by clicking on a point, correlated song/events will change color when hovering, and only them will stay if you click. After clicking, you get more information about the event / song, such as the lyrics or description with the Named Entities recognized highlighted. You also have a link to either the Wikipedia or the Youtube of the event / song, it is always nice to listen to one of the songs in the background !
 
