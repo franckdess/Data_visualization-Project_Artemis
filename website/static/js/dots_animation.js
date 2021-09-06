@@ -11,7 +11,7 @@ function mouse_over_dot(selection, bubble, text, refs, is_event_clicked) {
         .style("opacity", 0.9);
     bubble.html(text)
         .style("left", function () {
-            var left = px_to_vw(d3.event.pageX) - 6
+            var left = px_to_vw(d3.pointer(event)[0]) - 6
             var max_x = px_to_vw(d3.select("#plot-div").node().getBoundingClientRect().width)
             if (left < 0) {
                 return 1 + "vw"
@@ -24,7 +24,7 @@ function mouse_over_dot(selection, bubble, text, refs, is_event_clicked) {
             }
         })
         .style("top", function () {
-            var top = px_to_vh(d3.event.pageY) - px_to_vh(document.getElementById("bubble").offsetHeight) - 2
+            var top = px_to_vh(d3.pointer(event)[1]) - px_to_vh(document.getElementById("bubble").offsetHeight) - 2
             if (top < 0) {
                 return 1 + "vh"
             }

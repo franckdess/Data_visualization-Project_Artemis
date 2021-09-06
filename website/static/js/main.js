@@ -237,14 +237,19 @@ function construct_main_svg() {
 			.attr("cx", d => xScale(get_date(d, true)))
 			.attr("cy", d => select_random(margin_tb, ((height / 2) - (margin_tb / 2))))
 			.on("mouseout", d => mouse_out_dot(bubble))
-			.on("click", d => on_click_dot(event_window, d.Day + " " + d.Month + " " + d.Year + "<hr class='hr-box-event' align='right'>",
+			.on("click", function (event, d) {
+				on_click_dot(event_window, d.Day + " " + d.Month + " " + d.Year + "<hr class='hr-box-event' align='right'>",
 				d.Content, d.Summary_embedded + "<br><br><a href=\"" + d.Wikipedia + "\" class=\"href-wiki\"\" target=\"_blank\"\">Read more on Wikipedia</a> &#x2192;",
-				d.filteredRefs, true, d.Year))
-			.on("mouseover", function (d) {
+				d.filteredRefs, true, d.Year)
+			})
+			.on("mouseover", function (event, d) {
 				d3this = d3.select(this)
 				mouse_over_dot(d3this, bubble, d.Day + " " + d.Month + " " + d.Year + "<br><br>" + d.Content, d.filteredRefs, true)
 			})
-	})
+	}).catch((error)=>{
+		console.log("Api call error");
+		alert(error.message);
+	 });
 
 	// Create songs data points on the lower part of the svg
 	d3.csv("../static/data/songs_refs_website.csv").then(function (data) {
@@ -266,11 +271,13 @@ function construct_main_svg() {
 			.attr("cx", d => xScale(get_date(d, false)))
 			.attr("cy", d => select_random(height / 2 + margin_tb / 2, height - margin_tb))
 			.on("mouseout", d => mouse_out_dot(bubble))
-			.on("click", d => on_click_dot(song_window, d.Song + "<span style=\"font-size:14px; color:#757575; font-weight:bold;\"> by </span> " + d.Artist + "<hr class='hr-box-song' align='right'>",
+			.on("click", function (event, d) {
+				on_click_dot(song_window, d.Song + "<span style=\"font-size:14px; color:#757575; font-weight:bold;\"> by </span> " + d.Artist + "<hr class='hr-box-song' align='right'>",
 				"Year: " + d.Year + "<br>Rank: " + d.Rank + "<br>Album: " + d.Album + "<br>Genre: " + d.Genre,
 				d.Lyrics_print_embedded + "<br><br><a href=\"" + d.Youtube + "\" class=\"href-youtube\" target=\"_blank\"\">Watch the video on Youtube</a> &#x2192;",
-				d.filteredRefs, false, d.Year))
-			.on("mouseover", function (d) {
+				d.filteredRefs, false, d.Year)
+			})
+			.on("mouseover", function (event, d) {
 				d3this = d3.select(this)
 				mouse_over_dot(d3this, bubble, d.Artist + " - " + d.Song, d.filteredRefs, false)
 			})
@@ -688,5 +695,5 @@ whenDocumentLoaded(() => {
 	make_arrows_clickable()
 	make_team_clickable()
 	create_filter_menu()
-	launch_intro()
+	//launch_intro()
 })
