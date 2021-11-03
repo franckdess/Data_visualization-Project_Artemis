@@ -1,5 +1,5 @@
-/*  This script handles the functions called to construct the basis of the
-	website when the function "whenDocumentLoaded" is called. */
+// This script handles the functions called to construct the basis of the
+// website when the function "whenDocumentLoaded" is called.
 
 // Define global variable amoug all the scripts
 var DURATION_SHORT = 250;
@@ -23,7 +23,7 @@ var count_clicked = 0;
 
 function whenDocumentLoaded(action) {
 	/*	This function handles the event "whenDocumentLoaded" and will call
-		  actions when the document is ready. */
+		actions when the document is ready. */
 
 	if (document.readyState === "loading") {
 		document.addEventListener("DOMContentLoaded", action);
@@ -34,7 +34,7 @@ function whenDocumentLoaded(action) {
 
 function construct_main_svg() {
 	/*	This function creates the SVG in which the points will be displayed
-		  together with the time line. */
+		together with the time line. */
 
 	// Define sizes and margins
 	var width = d3.select("#plot-div").node().getBoundingClientRect().width
@@ -239,17 +239,17 @@ function construct_main_svg() {
 			.on("mouseout", d => mouse_out_dot(bubble))
 			.on("click", function (event, d) {
 				on_click_dot(event_window, d.Day + " " + d.Month + " " + d.Year + "<hr class='hr-box-event' align='right'>",
-				d.Content, d.Summary_embedded + "<br><br><a href=\"" + d.Wikipedia + "\" class=\"href-wiki\"\" target=\"_blank\"\">Read more on Wikipedia</a> &#x2192;",
-				d.filteredRefs, true, d.Year)
+					d.Content, d.Summary_embedded + "<br><br><a href=\"" + d.Wikipedia + "\" class=\"href-wiki\"\" target=\"_blank\"\">Read more on Wikipedia</a> &#x2192;",
+					d.filteredRefs, true, d.Year)
 			})
 			.on("mouseover", function (event, d) {
 				d3this = d3.select(this)
 				mouse_over_dot(d3this, bubble, d.Day + " " + d.Month + " " + d.Year + "<br><br>" + d.Content, d.filteredRefs, true)
 			})
-	}).catch((error)=>{
+	}).catch((error) => {
 		console.log("Api call error");
 		alert(error.message);
-	 });
+	});
 
 	// Create songs data points on the lower part of the svg
 	d3.csv("../static/data/songs_refs_website.csv").then(function (data) {
@@ -273,9 +273,9 @@ function construct_main_svg() {
 			.on("mouseout", d => mouse_out_dot(bubble))
 			.on("click", function (event, d) {
 				on_click_dot(song_window, d.Song + "<span style=\"font-size:14px; color:#757575; font-weight:bold;\"> by </span> " + d.Artist + "<hr class='hr-box-song' align='right'>",
-				"Year: " + d.Year + "<br>Rank: " + d.Rank + "<br>Album: " + d.Album + "<br>Genre: " + d.Genre,
-				d.Lyrics_print_embedded + "<br><br><a href=\"" + d.Youtube + "\" class=\"href-youtube\" target=\"_blank\"\">Watch the video on Youtube</a> &#x2192;",
-				d.filteredRefs, false, d.Year)
+					"Year: " + d.Year + "<br>Rank: " + d.Rank + "<br>Album: " + d.Album + "<br>Genre: " + d.Genre,
+					d.Lyrics_print_embedded + "<br><br><a href=\"" + d.Youtube + "\" class=\"href-youtube\" target=\"_blank\"\">Watch the video on Youtube</a> &#x2192;",
+					d.filteredRefs, false, d.Year)
 			})
 			.on("mouseover", function (event, d) {
 				d3this = d3.select(this)
@@ -535,6 +535,7 @@ function create_filter_menu() {
 				.transition().duration(DURATION_SHORT)
 				.style("left", "-30vw")
 		})
+	
 	// Add button text "apply" to apply the filters
 	filter_button.append('p')
 		.attr("id", "filter-button-text")
@@ -588,6 +589,7 @@ function create_filter_menu() {
 			}
 			hide_button("#remove-filter-button")
 		})
+	
 	// Add button text "remove" to remove the filters
 	remove_button.append('p')
 		.attr("id", "remove-button-text")
@@ -695,5 +697,5 @@ whenDocumentLoaded(() => {
 	make_arrows_clickable()
 	make_team_clickable()
 	create_filter_menu()
-	//launch_intro()
+	launch_intro()
 })

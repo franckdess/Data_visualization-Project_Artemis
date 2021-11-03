@@ -1,6 +1,6 @@
-/*  This script handles the animations related to the data points,
-    namely the mouseover, mouseout and click event as well as timeline
-    animation, namely the zoom in and zoom out animations. It also handles */
+// This script handles the animations related to the data points,
+// namely the mouseover, mouseout and click event as well as timeline
+// animation, namely the zoom in and zoom out animations. It also handles
 
 function mouse_over_dot(selection, bubble, text, refs, is_event_clicked) {
     /*  This function handles the "mouseover" event on the dots. It shows the pop-up
@@ -38,6 +38,7 @@ function mouse_over_dot(selection, bubble, text, refs, is_event_clicked) {
         .transition().duration(DURATION_SHORT)
         .style("opacity", 0.25)
         .style("r", "0.15vh")
+
     // Color on hovered item
     selection
         .transition().duration(DURATION_SHORT)
@@ -53,6 +54,7 @@ function mouse_over_dot(selection, bubble, text, refs, is_event_clicked) {
         .attr("fill", '#f26627')
         .style("r", "0.5vh")
         .style("opacity", 1)
+
     if (count_clicked == 0) {
         // Color on items that are referenced and hidden (in the case where a filter is applied)
         var to_select_visible = is_event_clicked ? ".circle-song-hidden" : ".circle-event-hidden"
@@ -82,6 +84,7 @@ function mouse_out_dot(bubble) {
         .style("opacity", 1)
         .attr("fill", '#282828')
         .style("r", "0.25vh")
+
     // Reset the datapoints that where previously hidden (in the case of a filter)
     d3.selectAll(".circle-event-visible-filtered,.circle-song-visible-filtered")
         .transition().duration(DURATION_SHORT)
@@ -187,7 +190,6 @@ function on_click_dot(window, title, subtitle, content, refs, is_event_clicked, 
     d3.selectAll("circle")
         .transition().delay(DURATION_SHORT).duration(DURATION_LONG)
         .attr("cx", d => xScale(get_date(d, is_event(d))))
-
 
     // Show the half window
     window.style("visibility", "visible")
@@ -297,6 +299,7 @@ function zoom_in(min_date, max_date) {
                     .attr("class", d => is_event(d) ? "circle-event-visible" : "circle-song-visible")
             })
     }
+
     // Otherwise, we already have points plotted and we only want to change their position
     else {
         d3.select("#plot-area").selectAll("circle")
@@ -410,15 +413,15 @@ function make_year_non_clickable() {
     d3.selectAll(".tick")
         // Handle the mouseover event
         .on("mouseover", function () {
-            
+
         })
         // Handle the mouseout event
         .on("mouseout", function () {
-            
+
         })
         // Handle the click event
         .on("click", function () {
-            
+
         })
 }
 
@@ -444,10 +447,10 @@ function get_event_query(d, neg) {
        the query of the input fields. */
 
     var query = d.Year.toLowerCase().includes(document.getElementById("year-event-field").value.toLowerCase()) &&
-                d.Month.toLowerCase().includes(document.getElementById("month-field").value.toLowerCase()) &&
-                d.Day.toLowerCase().includes(document.getElementById("day-field").value.toLowerCase()) &&
-               (d.Content.toLowerCase().includes(document.getElementById("content-field").value.toLowerCase()) ||
-                d.Summary.toLowerCase().includes(document.getElementById("content-field").value.toLowerCase()))
+        d.Month.toLowerCase().includes(document.getElementById("month-field").value.toLowerCase()) &&
+        d.Day.toLowerCase().includes(document.getElementById("day-field").value.toLowerCase()) &&
+        (d.Content.toLowerCase().includes(document.getElementById("content-field").value.toLowerCase()) ||
+            d.Summary.toLowerCase().includes(document.getElementById("content-field").value.toLowerCase()))
     if (neg) {
         query = !query
     }
@@ -472,6 +475,7 @@ function apply_filter() {
                 .style("visibility", "hidden")
                 .attr("class", d => is_event(d) ? "circle-event-hidden" : "circle-song-hidden")
         })
+
     // All the points that are hidden but does match the filter becomes visible
     d3.selectAll(".circle-event-hidden, .circle-song-hidden")
         .filter(function (d) {
@@ -652,12 +656,14 @@ function on_click_close_half_window(is_event_clicked, current_year, new_class_hi
         count_clicked = 0
 
     }
+
     // We are in the case where only one half-window is open and the data points are filtered
     else if (count_clicked == 1 && filtered_data) {
         show_button("#open-menu-button")
         show_only_linked ? show_button("#show-not-only-linked") : show_button("#show-only-linked")
         zoomed_in ? show_button("#unzoom-button") : hide_button("#unzoom-button")
         filtered_data ? show_button("#remove-filter-button") : hide("#remove-filter-button")
+        
         // If we zoomed in the time-line
         if (zoomed_in) {
             xScale.domain([new Date(+current_year - 2, 0, 1), new Date(+current_year + 2, 11, 31)])
@@ -689,6 +695,7 @@ function on_click_close_half_window(is_event_clicked, current_year, new_class_hi
                 })
             count_clicked = 0
         }
+        
         // If we did not zoom in the time-line
         else {
             xScale.domain([mindate, maxdate])
@@ -718,6 +725,7 @@ function on_click_close_half_window(is_event_clicked, current_year, new_class_hi
             count_clicked = 0
         }
     }
+
     // We are in the case where both half-window are open
     else if (count_clicked == 2) {
         xScale.domain([mindate, maxdate])

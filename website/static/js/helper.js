@@ -1,6 +1,6 @@
-/*  This script handles the helper functions related to the website,
-    namely the scroll to element, select random, pixel to viewport height
-    and pixel to viewport height functions */
+// This script handles the helper functions related to the website,
+// namely the scroll to element, select random, pixel to viewport height
+// and pixel to viewport height functions
 
 function scroll_to_element(element) {
     /*  This function handles the scrolling animation to a given div element. */
@@ -25,7 +25,7 @@ function select_random(min, max) {
 }
 
 function px_to_vw(value) {
-    /* This function converts a value in pixels into a value in
+    /*  This function converts a value in pixels into a value in
         the viewport width coordinates (vw). */
 
     var w = window,
@@ -39,7 +39,7 @@ function px_to_vw(value) {
 }
 
 function px_to_vh(value) {
-    /* This function converts a value in pixels into a value in
+    /*  This function converts a value in pixels into a value in
         the viewport height coordinates (vh). */
 
     var w = window,
@@ -94,6 +94,7 @@ function song_fields_empty() {
 
 function remove_filters() {
     /*  This function removes the filters. */
+    
     document.getElementById("year-event-field").value = ""
     document.getElementById("month-field").value = ""
     document.getElementById("day-field").value = ""

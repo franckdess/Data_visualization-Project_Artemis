@@ -121,8 +121,6 @@ img.remove-filter-button {
 	z-index: 1000;
 }
 
-
-
 div.tooltip {
 	display: block;
 	overflow: auto;
@@ -369,6 +367,7 @@ img.cross-1 {
 	top: 2vw;
 	z-index: 1000;
 }
+
 img.cross-2 {
 	position: absolute;
 	height: 2vh;
@@ -376,6 +375,7 @@ img.cross-2 {
 	top: 2vw;
 	z-index: 1000;
 }
+
 img.cross {
 	position: absolute;
 	height: 2vh;
