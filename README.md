@@ -2,12 +2,15 @@
 
 IMPORTANT NOTE : For the moment, the website only works properly on Safari, some functionnalities such as zooming out of the Timeline do not work on other browsers.
 
-This project provides tools to explore correlation between song lyrics and historical events, start exploring at : https://franckdess.github.io/Data_visualization-Project_Artemis/website/templates/
+The Project Artemis aims to use NLP techniques to find mappings between Billboard songs lyrics and historical events, and eventually display the results in an interactive way. It provides you with tools to explore correlation between lyrics and events.
 
-Start by clicking on a year to zoom on a specific period, then select an event or a song by clicking on a point, correlated song/events will change color when hovering, and only them will stay if you click. After clicking, you get more information about the event / song, such as the lyrics or description with the Named Entities recognized highlighted. You also have a link to either the Wikipedia or the Youtube of the event / song, it is always nice to listen to one of the songs in the background !
+Explore at: https://franckdess.github.io/Data_visualization-Project_Artemis/website/templates/
 
-You can also put filters by clicking on the top left icon, and remove them by clicking on the trash can. The cliper with a bar icon filters out events/songs that have no link. It as activated by default. You can click on it to still see isolated points. When you are zoomed on a 5 year span, you can unzoom by clicking the top right icon. 
-If you are ever in a situation where you feel there is a glitch / bug, just refresh the page, we are sorry for the inconveniance !
+Start by clicking on a year. This will zoom on a specific period and bring you to the selected year. Correlated songs/events are highlighted when hovering and a small description appears. You can then select an event or a song by clicking on a data point. After having clicked, you get more information about the event/song, such as the lyrics or description with the Named Entities recognized highlighted. You will also find a link to either the Wikipedia page or the Youtube video of the given event or song, it is always nice to listen to one of the songs in the background !
+
+You can also add filters by clicking on the top left icon, and remove them by clicking on the trash can icon. For instance, the search option allows you to see the distribution of a given word in lyrics over the years or to filter events which description matches a given key-word. The cliper with a bar icon filters out events/songs that have no link. It as activated by default. You can click on it to still see isolated points. When you are zoomed on a 5 year span, you can unzoom by clicking the top right icon. 
+
+If you are ever in a situation where you feel there is a glitch or a bug, just refresh the page, we are sorry for the inconveniance !
 
 ## Screen cast :
 
