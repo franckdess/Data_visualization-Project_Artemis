@@ -1,11 +1,5 @@
 # Project of Data Visualization (COM-480)
 
-| Student's name | SCIPER |
-| -------------- | ------ |
-| Justine Weber | 261458 |
-| Franck Dessimoz | 246602 |
-| Simon Roquette | 246540 |
-
 IMPORTANT NOTE : For the moment, the website only works properly on Safari, some functionnalities such as zooming out of the Timeline do not work on other browsers.
 
 This project provides tools to explore correlation between song lyrics and historical events, start exploring at : https://franckdess.github.io/Data_visualization-Project_Artemis/website/templates/
@@ -16,6 +10,7 @@ You can also put filters by clicking on the top left icon, and remove them by cl
 If you are ever in a situation where you feel there is a glitch / bug, just refresh the page, we are sorry for the inconveniance !
 
 ## Screen cast :
+
 Check out our 2min website presentation here : https://youtu.be/HscXsXHk8Zg
 
 ## Code : 

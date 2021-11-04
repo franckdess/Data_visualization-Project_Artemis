@@ -61,7 +61,9 @@ function get_date(d, is_event) {
     }
     else {
         // For songs we generate random day/month since we only have the year
-        var date = new Date(d.Year, select_random(1, 10), select_random(1, 30))
+        // We select the month between February and November for rendering
+        // purpose: blank space separating data points
+        var date = new Date(d.Year, select_random(2, 11), select_random(1, 30))
     }
     return date
 }
