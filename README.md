@@ -1,6 +1,6 @@
 # Project of Data Visualization (COM-480)
 
-IMPORTANT NOTE : For the moment, the website only works properly on Safari, some functionnalities such as zooming out of the Timeline do not work on other browsers.
+*IMPORTANT NOTE : For the moment, the website only works properly on Safari, some functionnalities such as zooming out of the timeline do not work on other browsers.*
 
 The Project Artemis aims to use NLP techniques to find mappings between Billboard songs lyrics and historical events, and eventually display the results in an interactive way. It provides you with tools to explore correlation between lyrics and events.
 
