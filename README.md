@@ -36,17 +36,17 @@ The website implements another tool as the search engine. It allows to filter so
 
 ## Data analysis
 
-![Number_of_times_appearing_in_ranking_per_artist](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Number_of_times_appearing_in_ranking_per_artist.png)
+![Number_of_times_appearing_in_ranking_per_artist](./images/data_analysis/Number_of_times_appearing_in_ranking_per_artist.png)
 
-![Number_of_songs_per_artist_appearing_more_than_one_time_in_the_ranking](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Number_of_songs_per_artist_appearing_more_than_one_time_in_the_ranking.png)
+![Number_of_songs_per_artist_appearing_more_than_one_time_in_the_ranking](./images/data_analysis/Number_of_songs_per_artist_appearing_more_than_one_time_in_the_ranking.png)
 
-![Genre_distribution_in_the_ranking](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Genre_distribution_in_the_ranking.png)
+![Genre_distribution_in_the_ranking](./images/data_analysis/Genre_distribution_in_the_ranking.png)
 
-<img src="/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Distribution_of_the_number_of_words_per_song.png" alt="Distribution_of_the_number_of_words_per_song" />
+<img src="./images/data_analysis/Distribution_of_the_number_of_words_per_song.png" alt="Distribution_of_the_number_of_words_per_song" />
 
-![Distribution_of_the_number_of_unique_words_per_song](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Distribution_of_the_number_of_unique_words_per_song.png)
+![Distribution_of_the_number_of_unique_words_per_song](.images/data_analysis/Distribution_of_the_number_of_unique_words_per_song.png)
 
-![Most_frequent_words_per_decade](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Most_frequent_words_per_decade.png)
+![Most_frequent_words_per_decade](./images/data_analysis/Most_frequent_words_per_decade.png)
 
 ## Conclusion
 
