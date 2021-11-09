@@ -18,7 +18,7 @@ The website was implemented using *JavaScript*, *d3.js*, *HTML* and *CSS*. The d
 
 The landing page contains only the central timeline – the core or the visualization – and two buttons. This first one allows the user to open the search engine and the second one allows the user to display all the data points, i.e., also the one with no link. Indeed by default, only the data points with a link to a song or conversely are shown.
 
-![Screenshot_1](./images/Website_screenshots/Screenshot_1.jpeg)
+![Screenshot_1](./images/website_screenshots/Screenshot_1.jpeg)
 
 As the website is presented in a unique full-screen view, with a central timeline, the data points are organized around the latter, with the events taking place above the timeline and the songs below. The *y* position of the event points do not have any specific meaning. As there are a lot of events, it has been decided to spread them in the space, for readability and distinguishability.
 
