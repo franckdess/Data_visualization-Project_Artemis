@@ -12,6 +12,12 @@ The idea of a visualization using a timeline as the *x*-axis came very naturally
 
 The website was implemented using *JavaScript*, *d3.js*, *HTML* and *CSS*. The data collection, data processing and data analysis was performed using *Python 3*, together with *BeautifulSoup*, *Spacy*, *NLTK*, *Pandas*, *Numpy*, *Matplotlib*, *Huggingface/transformer*, *Gensim*, and many more.
 
+→ [
+
+[^1]: *IMPORTANT NOTE : For the moment, the website only works properly on Safari, some functionnalities such as zooming out of the timeline do not work on other browsers.*
+
+](https://franckdess.github.io/Data_visualization-Project_Artemis/website/templates/)
+
 ## Data visualization
 
 The landing page contains only the central timeline – the core or the visualization – and two buttons. This first one allows the user to open the search engine and the second one allows the user to display all the data points, i.e., also the one with no link. Indeed by default, only the data points with a link to a song or conversely are shown.
@@ -44,7 +50,7 @@ The website implements another tool as the search engine. It allows to filter so
 
 <img src="./images/data_analysis/Distribution_of_the_number_of_words_per_song.png" alt="Distribution_of_the_number_of_words_per_song" />
 
-![Distribution_of_the_number_of_unique_words_per_song](.images/data_analysis/Distribution_of_the_number_of_unique_words_per_song.png)
+![Distribution_of_the_number_of_unique_words_per_song](./images/data_analysis/Distribution_of_the_number_of_unique_words_per_song.png)
 
 ![Most_frequent_words_per_decade](./images/data_analysis/Most_frequent_words_per_decade.png)
 
