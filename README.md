@@ -12,9 +12,7 @@ The idea of a visualization using a timeline as the *x*-axis came very naturally
 
 The website was implemented using *JavaScript*, *d3.js*, *HTML* and *CSS*. The data collection, data processing and data analysis was performed using *Python 3*, together with *BeautifulSoup*, *Spacy*, *NLTK*, *Pandas*, *Numpy*, *Matplotlib*, *Huggingface/transformer*, *Gensim*, and many more.
 
-→ [Start exploring](https://franckdess.github.io/Data_visualization-Project_Artemis/website/templates/) 
-
-[^]: *IMPORTANT NOTE : For the moment, the website only works properly on Safari, some functionnalities such as zooming out of the timeline do not work on other browsers.*
+→ [Start exploring](https://franckdess.github.io/Data_visualization-Project_Artemis/website/templates/)* 
 
 ## Data visualization
 
@@ -57,3 +55,7 @@ The website implements another tool as the search engine. It allows to filter so
 The afore described data visualization website deals with a big amount of data. Nevertheless, by using a timeline as its core visualization element, it has been made easy to distribute the data points into the space and to navigate among such a lot of information. Moreover, the search engine has proven to be efficient to browse more efficiently in the dataset. Finally, many if not all cases have been dealt with in order to prevent the user to get lost.
 
 However, as this project was implemented in a [*Data Visualization*](https://edu.epfl.ch/coursebook/en/data-visualization-COM-480) course, all the efforts have been put into the visualization itself, and just a little put in the efficicency. This results in some animation lacking smoothness, since the website has to handle a big dataset. Furthermore, as already mentionned, due to the focus on the data visualization part the NLP model is not accurate enough and prevents the user to obtain relevant matchings.
+
+------
+
+**IMPORTANT NOTE : For the moment, the website only works properly on Safari, some functionnalities such as zooming out of the timeline do not work on other browsers.*
