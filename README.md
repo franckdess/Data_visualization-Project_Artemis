@@ -18,7 +18,7 @@ The website was implemented using *JavaScript*, *d3.js*, *HTML* and *CSS*. The d
 
 The landing page contains only the central timeline – the core or the visualization – and two buttons. This first one allows the user to open the search engine and the second one allows the user to display all the data points, i.e., also the one with no link. Indeed by default, only the data points with a link to a song or conversely are shown.
 
-![Screenshot_1](./images/website_screenshots/Screenshot_1.jpeg)
+![screenshot_1](./images/website_screenshots/screenshot_1.jpeg)
 
 As the website is presented in a unique full-screen view, with a central timeline, the data points are organized around the latter, with the events taking place above the timeline and the songs below. The *y* position of the event points do not have any specific meaning. As there are a lot of events, it has been decided to spread them in the space, for readability and distinguishability.
 
@@ -30,26 +30,26 @@ As the user clicks on a year, one zoom in the timeline range specified by the gi
 
 The website implements another tool as the search engine. It allows to filter songs or events given some attributes or constraints, such as for example, a genre or a word in the event’s description. The timeline visualization combined with the search engine offers the possibility to find the distribution of a given feature over the fifty years the dataset covers – e.g., the distribution of a word in the lyrics since 1965.
 
-| ![Screenshot_7](./images/Website_screenshots/Screenshot_7.jpeg) | ![Screenshot_8](./images/Website_screenshots/Screenshot_8.jpeg) |
+| ![screenshot_7](./images/website_screenshots/screenshot_7.jpeg) | ![screenshot_8](./images/website_screenshots/screenshot_8.jpeg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Screenshot_9](./images/Website_screenshots/Screenshot_9.jpeg) | ![Screenshot_10](./images/Website_screenshots/Screenshot_10.jpeg) |
+| ![screenshot_9](./images/website_screenshots/screenshot_9.jpeg) | ![screenshot_10](./images/website_screenshots/screenshot_10.jpeg) |
 
 
 
 ## Data analysis
 Note that the graphs presented below appear more visible with the night theme enabled.
 
-![Number_of_times_appearing_in_ranking_per_artist](./images/data_analysis/Number_of_times_appearing_in_ranking_per_artist.png)
+![Number_of_times_appearing_in_ranking_per_artist](./images/data_analysis/number_of_times_appearing_in_ranking_per_artist.png)
 
-![Number_of_songs_per_artist_appearing_more_than_one_time_in_the_ranking](./images/data_analysis/Number_of_songs_per_artist_appearing_more_than_one_time_in_the_ranking.png)
+![Number_of_songs_per_artist_appearing_more_than_one_time_in_the_ranking](./images/data_analysis/number_of_songs_per_artist_appearing_more_than_one_time_in_the_ranking.png)
 
-![Genre_distribution_in_the_ranking](./images/data_analysis/Genre_distribution_in_the_ranking.png)
+![Genre_distribution_in_the_ranking](./images/data_analysis/genre_distribution_in_the_ranking.png)
 
-<img src="./images/data_analysis/Distribution_of_the_number_of_words_per_song.png" alt="Distribution_of_the_number_of_words_per_song" />
+<img src="./images/data_analysis/Distribution_of_the_number_of_words_per_song.png" alt="distribution_of_the_number_of_words_per_song" />
 
-![Distribution_of_the_number_of_unique_words_per_song](./images/data_analysis/Distribution_of_the_number_of_unique_words_per_song.png)
+![Distribution_of_the_number_of_unique_words_per_song](./images/data_analysis/distribution_of_the_number_of_unique_words_per_song.png)
 
-![Most_frequent_words_per_decade](./images/data_analysis/Most_frequent_words_per_decade.png)
+![Most_frequent_words_per_decade](./images/data_analysis/most_frequent_words_per_decade.png)
 
 ## Conclusion
 
