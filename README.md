@@ -36,17 +36,17 @@ The website implements another tool as the search engine. It allows to filter so
 
 ## Data analysis
 
-![Genre distribution in the Top-100](./images/data_analysis/Genre distribution in the Top-100.png)
+![Genre distribution in the Top-100](./images/data_analysis/Genre_distribution_in_the_Top-100.png)
 
-![Number of times appearing in Top-100 per Artist](./images/data_analysis/Number of times appearing in Top-100 per Artist.png)
+![Number of times appearing in Top-100 per Artist](./images/data_analysis/Number_of_times_appearing_in_Top-100_per_Artist.png)
 
 
 
-![Artists with the most songs appearing more than 1 time in the Top-100](./images/data_analysis/Artists with the most songs appearing more than 1 time in the Top-100.png)
+![Artists with the most songs appearing more than 1 time in the Top-100](./images/data_analysis/Artists_with_the_most_songs_appearing_more_than_1_time_in_the_Top-100.png)
 
-![Distribution of the number of words per song](./images/data_analysis/Distribution of the number of words per song.png)
+![Distribution of the number of words per song](./images/data_analysis/Distribution_of_the_number_of_words_per_song.png)
 
-![Distribution of the number of words per song](./images/data_analysis/Distribution of the number of unique words per song.png)
+![Distribution of the number of words per song](./images/data_analysis/Distribution_of_the_number_of_unique_words_per_song.png)
 
 ## Conclusion
 
