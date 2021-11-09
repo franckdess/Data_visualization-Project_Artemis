@@ -36,17 +36,17 @@ The website implements another tool as the search engine. It allows to filter so
 
 ## Data analysis
 
-![Genre distribution in the Top-100](./images/data_analysis/Genre_distribution_in_the_Top-100.png)
+![Number_of_times_appearing_in_ranking_per_artist](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Number_of_times_appearing_in_ranking_per_artist.png)
 
-![Number of times appearing in Top-100 per Artist](./images/data_analysis/Number_of_times_appearing_in_Top-100_per_Artist.png)
+![Number_of_songs_per_artist_appearing_more_than_one_time_in_the_ranking](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Number_of_songs_per_artist_appearing_more_than_one_time_in_the_ranking.png)
 
+![Genre_distribution_in_the_ranking](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Genre_distribution_in_the_ranking.png)
 
+<img src="/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Distribution_of_the_number_of_words_per_song.png" alt="Distribution_of_the_number_of_words_per_song" />
 
-![Artists with the most songs appearing more than 1 time in the Top-100](./images/data_analysis/Artists_with_the_most_songs_appearing_more_than_1_time_in_the_Top-100.png)
+![Distribution_of_the_number_of_unique_words_per_song](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Distribution_of_the_number_of_unique_words_per_song.png)
 
-![Distribution of the number of words per song](./images/data_analysis/Distribution_of_the_number_of_words_per_song.png)
-
-![Distribution of the number of words per song](./images/data_analysis/Distribution_of_the_number_of_unique_words_per_song.png)
+![Most_frequent_words_per_decade](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/data_analysis/Most_frequent_words_per_decade.png)
 
 ## Conclusion
 
