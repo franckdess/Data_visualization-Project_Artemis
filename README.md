@@ -12,11 +12,9 @@ The idea of a visualization using a timeline as the *x*-axis came very naturally
 
 The website was implemented using *JavaScript*, *d3.js*, *HTML* and *CSS*. The data collection, data processing and data analysis was performed using *Python 3*, together with *BeautifulSoup*, *Spacy*, *NLTK*, *Pandas*, *Numpy*, *Matplotlib*, *Huggingface/transformer*, *Gensim*, and many more.
 
-→ [
+→ [Start exploring](https://franckdess.github.io/Data_visualization-Project_Artemis/website/templates/) 
 
-[^1]: *IMPORTANT NOTE : For the moment, the website only works properly on Safari, some functionnalities such as zooming out of the timeline do not work on other browsers.*
-
-](https://franckdess.github.io/Data_visualization-Project_Artemis/website/templates/)
+[^]: *IMPORTANT NOTE : For the moment, the website only works properly on Safari, some functionnalities such as zooming out of the timeline do not work on other browsers.*
 
 ## Data visualization
 
