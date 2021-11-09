@@ -26,21 +26,21 @@ _____
 
 The landing page contains only the central timeline – the core or the visualization – and two buttons. This first one allows the user to open the search engine and the second one allows the user to display all the data points, i.e., also the one with no link. Indeed by default, only the data points with a link to a song or conversely are shown.
 
-![Screenshot_1](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/Website_screenshots/Screenshot_1.png)
+![Screenshot_1](./images/Website_screenshots/Screenshot_1.png)
 
 As the website is presented in a unique full-screen view, with a central timeline, the data points are organized around the latter, with the events taking place above the timeline and the songs below. The *y* position of the event points do not have any specific meaning. As there are a lot of events, it has been decided to spread them in the space, for readability and distinguishability.
 
 As the user clicks on a year, one zoom in the timeline range specified by the given year and the data points appear. With the data being displayed, the user can hover over a point to access its summary and then click on it to open a half-window with the whole information. The timeline is then zoomed out to the original complete range in order to display an overview of all corresponding data points. The same process applies for the second part until the two half-windows are open. The latter display the complete information, which is the wikipedia summary for the events together with the corresponding wikipedia link and the lyrics for the songs together with a link to the *Youtube* video. This last part shows the words in the descriptions that helped link the two entities by highlighting them and adding the tag produced by the Named Entity Recognition (NER) algorithm.
 
-| ![Screenshot_2](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/Website_screenshots/Screenshot_2.png) | ![Screenshot_3](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/Website_screenshots/Screenshot_3.png) |
+| ![Screenshot_2](./images/Website_screenshots/Screenshot_2.png) | ![Screenshot_3](./images/Website_screenshots/Screenshot_3.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Screenshot_4](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/Website_screenshots/Screenshot_4.png) | ![Screenshot_6](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/Website_screenshots/Screenshot_6.png) |
+| ![Screenshot_4](./images/Website_screenshots/Screenshot_4.png) | ![Screenshot_6](./images/Website_screenshots/Screenshot_6.png) |
 
 The website implements another tool as the search engine. It allows to filter songs or events given some attributes or constraints, such as for example, a genre or a word in the event’s description. The timeline visualization combined with the search engine offers the possibility to find the distribution of a given feature over the fifty years the dataset covers – e.g., the distribution of a word in the lyrics since 1965.
 
-| ![Screenshot_7](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/Website_screenshots/Screenshot_7.png) | ![Screenshot_8](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/Website_screenshots/Screenshot_8.png) |
+| ![Screenshot_7](./images/Website_screenshots/Screenshot_7.png) | ![Screenshot_8](./images/Website_screenshots/Screenshot_8.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Screenshot_9](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/Website_screenshots/Screenshot_9.png) | ![Screenshot_10](/Users/franckdessimoz/Desktop/Data_visualization-Project_Artemis/images/Website_screenshots/Screenshot_10.png) |
+| ![Screenshot_9](./images/Website_screenshots/Screenshot_9.png) | ![Screenshot_10](./images/Website_screenshots/Screenshot_10.png) |
 
 # Conclusion
 
