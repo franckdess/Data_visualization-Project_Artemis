@@ -24,9 +24,9 @@ As the website is presented in a unique full-screen view, with a central timelin
 
 As the user clicks on a year, one zoom in the timeline range specified by the given year and the data points appear. With the data being displayed, the user can hover over a point to access its summary and then click on it to open a half-window with the whole information. The timeline is then zoomed out to the original complete range in order to display an overview of all corresponding data points. The same process applies for the second part until the two half-windows are open. The latter display the complete information, which is the wikipedia summary for the events together with the corresponding wikipedia link and the lyrics for the songs together with a link to the *Youtube* video. This last part shows the words in the descriptions that helped link the two entities by highlighting them and adding the tag produced by the Named Entity Recognition (NER) algorithm.
 
-| ![Screenshot_2](./images/Website_screenshots/screenshot_2.jpeg) | ![Screenshot_3](./images/Website_screenshots/screenshot_3.jpeg) |
+| ![Screenshot_2](./images/website_screenshots/screenshot_2.jpeg) | ![Screenshot_3](./images/website_screenshots/screenshot_3.jpeg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Screenshot_4](./images/Website_screenshots/screenshot_4.jpeg) | ![Screenshot_6](./images/Website_screenshots/screenshot_6.jpeg) |
+| ![Screenshot_4](./images/website_screenshots/screenshot_4.jpeg) | ![Screenshot_6](./images/website_screenshots/screenshot_6.jpeg) |
 
 The website implements another tool as the search engine. It allows to filter songs or events given some attributes or constraints, such as for example, a genre or a word in the event’s description. The timeline visualization combined with the search engine offers the possibility to find the distribution of a given feature over the fifty years the dataset covers – e.g., the distribution of a word in the lyrics since 1965.
 
