@@ -37,6 +37,7 @@ The website implements another tool as the search engine. It allows to filter so
 
 
 ## Data analysis
+Note that the graphs presented below appear more visible with the night theme enabled.
 
 ![Number_of_times_appearing_in_ranking_per_artist](./images/data_analysis/Number_of_times_appearing_in_ranking_per_artist.png)
 
