@@ -4,7 +4,7 @@
 
 The Project Artemis aims to use NLP techniques to find mappings between *Billboard* songs lyrics and historical events, and eventually display the results in an interactive way. It combines NLP and data visualization to provide the user with a tool to explore the correlation between pop culture and events. The purpose of this project was thus to investigate whether the fact that a song is related to a major event could help make it a great success.
 
-The [*Billboard Hot 100*](https://www.billboard.com/charts/hot-100), which is the music industry standard record chart in the United States for songs, published weekly by [*Billboard*](https://www.billboard.com) magazine, was used as a starting point. At the end of each year *Billboard* magazine publishes the *Year-End Hot 100 singles* – the biggest successes of the year. The starting point of this project was therefore the dataset *50 years of pop-song music*. It contains the lyrics of the yearly top 100 *Billboard* songs from 1965 to 2015, which represents 5000 songs data points
+The [*Billboard Hot 100*](https://www.billboard.com/charts/hot-100), which is the music industry standard record chart in the United States for songs, published weekly by [*Billboard*](https://www.billboard.com) magazine, was used as a starting point. At the end of each year *Billboard* magazine publishes the *Year-End Hot 100 singles* – the biggest successes of the year. The starting point of this project was therefore the dataset [*50 years of pop-song music*](https://github.com/walkerkq/musiclyrics). It contains the lyrics of the yearly top 100 *Billboard* songs from 1965 to 2015, which represents 5000 songs data points
 
 As this project aims to show the influence of historical events on pop culture it was necessary to gather a dataset of historical events. Since there was no such dataset available, the dataset was created by scrapping information from the web, more precisely from *[OnThisDay](https://www.onthisday.com)*. This website has the advantage of showing only major events which fits the needs perfectly. For each year from 1965 to 2015, the day, the month and the year of the event as well as a one-sentence summary were collected. Furthermore, the Wikipedia Python API was involved to gather the article’s URL associated with the event and eventually the summary of the article, to gather 1115 events data points
 
@@ -31,6 +31,22 @@ The website implements another tool as the search engine. It allows to filter so
 | ![Screenshot_7](./images/Website_screenshots/Screenshot_7.jpeg) | ![Screenshot_8](./images/Website_screenshots/Screenshot_8.jpeg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Screenshot_9](./images/Website_screenshots/Screenshot_9.jpeg) | ![Screenshot_10](./images/Website_screenshots/Screenshot_10.jpeg) |
+
+
+
+## Data analysis
+
+![Genre distribution in the Top-100](./images/data_analysis/Genre distribution in the Top-100.png)
+
+![Number of times appearing in Top-100 per Artist](./images/data_analysis/Number of times appearing in Top-100 per Artist.png)
+
+
+
+![Artists with the most songs appearing more than 1 time in the Top-100](./images/data_analysis/Artists with the most songs appearing more than 1 time in the Top-100.png)
+
+![Distribution of the number of words per song](./images/data_analysis/Distribution of the number of words per song.png)
+
+![Distribution of the number of words per song](./images/data_analysis/Distribution of the number of unique words per song.png)
 
 ## Conclusion
 
