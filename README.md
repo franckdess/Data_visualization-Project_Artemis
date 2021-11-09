@@ -10,7 +10,7 @@ As this project aims to show the influence of historical events on pop culture i
 
 The idea of a visualization using a timeline as the *x*-axis came very naturally since all the data points are centered around the 1965-2015 time period. The timeline allows the user to zoom in and to get a better idea of the events or songs in a tighter time range, but it also allows him to get an overview on the entire time range.
 
-The website was implemented using *JavaScript*, *d3.js*, *HTML* and *CSS*. The data collection, data processing and data analysis was performed using *Python 3*, together with *BeautifulSoup*, *Spacy*, *NLTK*, *P andas*, *Numpy*, *Matplotlib*, *Huggingface/ transformer*, *Gensim*, and many more.
+The website was implemented using *JavaScript*, *d3.js*, *HTML* and *CSS*. The data collection, data processing and data analysis was performed using *Python 3*, together with *BeautifulSoup*, *Spacy*, *NLTK*, *Pandas*, *Numpy*, *Matplotlib*, *Huggingface/transformer*, *Gensim*, and many more.
 
 ## Data visualization
 
