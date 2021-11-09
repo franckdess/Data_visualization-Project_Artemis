@@ -697,5 +697,5 @@ whenDocumentLoaded(() => {
 	make_arrows_clickable()
 	make_team_clickable()
 	create_filter_menu()
-	// launch_intro()
+	launch_intro()
 })
