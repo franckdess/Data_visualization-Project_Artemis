@@ -45,7 +45,7 @@ Note that the graphs presented below appear more visible with the night theme en
 
 ![Genre_distribution_in_the_ranking](./images/data_analysis/genre_distribution_in_the_ranking.png)
 
-<img src="./images/data_analysis/Distribution_of_the_number_of_words_per_song.png" alt="distribution_of_the_number_of_words_per_song" />
+<img src="./images/data_analysis/distribution_of_the_number_of_words_per_song.png" alt="distribution_of_the_number_of_words_per_song" />
 
 ![Distribution_of_the_number_of_unique_words_per_song](./images/data_analysis/distribution_of_the_number_of_unique_words_per_song.png)
 
